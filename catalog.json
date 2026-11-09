@@ -17,31 +17,31 @@
      "sku": "texture_etc",
      "tags": "cars_porsche_911_gt3rs_2023 full_game initial_dl",
      "mod": {
-      "length": 1136,
-      "installed": 46682112,
-      "truncated": 1136,
-      "md5": "784de03b0203f5def60786e3c84c8b8e",
+      "length": 1120,
+      "installed": 12713984,
+      "truncated": 1120,
+      "md5": "3c659eb89066db2aacbf89059c14378a",
       "hashes": [
-       "784de03b0203f5def60786e3c84c8b8e"
+       "3c659eb89066db2aacbf89059c14378a"
       ],
       "cabs": [
        {
         "name": "0.cab",
-        "file": "d9d19a6d8a61391fa22cf7ded8f7153f.cab",
-        "size": 3078788,
-        "md5": "d9d19a6d8a61391fa22cf7ded8f7153f"
+        "file": "9eec3622d7f02dc48bb123ff19ef1cee.cab",
+        "size": 1062340,
+        "md5": "9eec3622d7f02dc48bb123ff19ef1cee"
        },
        {
         "name": "1.cab",
-        "file": "e7f6a9dfd4194ff386465a14afb29f4a.cab",
-        "size": 2253428,
-        "md5": "e7f6a9dfd4194ff386465a14afb29f4a"
+        "file": "ca355b325449fb6a9cfba095cfbb6a98.cab",
+        "size": 223016,
+        "md5": "ca355b325449fb6a9cfba095cfbb6a98"
        },
        {
         "name": "10.cab",
-        "file": "7d3cd12ff48a3aa8e72115d2b03ead8c.cab",
-        "size": 12515656,
-        "md5": "7d3cd12ff48a3aa8e72115d2b03ead8c"
+        "file": "2ad13a8f9a4334350735f41f0bdc0295.cab",
+        "size": 4737164,
+        "md5": "2ad13a8f9a4334350735f41f0bdc0295"
        },
        {
         "name": "11.cab",
@@ -57,55 +57,55 @@
        },
        {
         "name": "2.cab",
-        "file": "8f28e4bcaa4e0fea9add604b1a9b2f3d.cab",
-        "size": 6177800,
-        "md5": "8f28e4bcaa4e0fea9add604b1a9b2f3d"
+        "file": "3c0077e5f3bd3b303dead47bf48ba18b.cab",
+        "size": 594608,
+        "md5": "3c0077e5f3bd3b303dead47bf48ba18b"
        },
        {
         "name": "3.cab",
-        "file": "dbff3fd40f1d8f660b6eb4fbe4c9f514.cab",
-        "size": 704768,
-        "md5": "dbff3fd40f1d8f660b6eb4fbe4c9f514"
+        "file": "b58e92db5eee305c2b79ce95e6aa730e.cab",
+        "size": 226956,
+        "md5": "b58e92db5eee305c2b79ce95e6aa730e"
        },
        {
         "name": "4.cab",
-        "file": "c4a40eee3e05e4283d29d20c8aa4c6cc.cab",
-        "size": 1891172,
-        "md5": "c4a40eee3e05e4283d29d20c8aa4c6cc"
+        "file": "6ac1e586b418d5ce48180d1a7ac54c3d.cab",
+        "size": 611044,
+        "md5": "6ac1e586b418d5ce48180d1a7ac54c3d"
        },
        {
         "name": "5.cab",
-        "file": "088c991dcb4757802855320c512eb821.cab",
-        "size": 731252,
-        "md5": "088c991dcb4757802855320c512eb821"
+        "file": "9f286a59978c3bb6fdfe8d29dfd90d17.cab",
+        "size": 70744,
+        "md5": "9f286a59978c3bb6fdfe8d29dfd90d17"
        },
        {
         "name": "6.cab",
-        "file": "e8951d36f3c7b2e1f4c2672cf852264f.cab",
-        "size": 985268,
-        "md5": "e8951d36f3c7b2e1f4c2672cf852264f"
+        "file": "103fadf291c5e7c502f677b39bf942ad.cab",
+        "size": 150680,
+        "md5": "103fadf291c5e7c502f677b39bf942ad"
        },
        {
         "name": "7.cab",
-        "file": "b214205a3d2731c7c1db7c805ac40bee.cab",
-        "size": 12321496,
-        "md5": "b214205a3d2731c7c1db7c805ac40bee"
+        "file": "cd8937f43e4cbd64e3588660ba6a2c06.cab",
+        "size": 1398368,
+        "md5": "cd8937f43e4cbd64e3588660ba6a2c06"
        },
        {
         "name": "8.cab",
-        "file": "4b9f7159c21526dcf66ec34b1b92c260.cab",
-        "size": 4583464,
-        "md5": "4b9f7159c21526dcf66ec34b1b92c260"
+        "file": "8c8df9452bd36e76a64615314fb417fd.cab",
+        "size": 2634108,
+        "md5": "8c8df9452bd36e76a64615314fb417fd"
        },
        {
         "name": "9.cab",
-        "file": "75a04016ed7f007c0ad585c52ce7605b.cab",
-        "size": 500772,
-        "md5": "75a04016ed7f007c0ad585c52ce7605b"
+        "file": "923897ef601ec0248a7c8ff808a67609.cab",
+        "size": 69144,
+        "md5": "923897ef601ec0248a7c8ff808a67609"
        }
       ],
-      "file": "784de03b0203f5def60786e3c84c8b8e.pack",
-      "size": 1136
+      "file": "3c659eb89066db2aacbf89059c14378a.pack",
+      "size": 1120
      },
      "stock": {
       "length": 1118776,
@@ -122,27 +122,27 @@
      "changed": [
       {
        "name": "texture_porsche_911_gt3rs_2023_alpha.sba",
-       "file": "7d3cd12ff48a3aa8e72115d2b03ead8c.sba",
-       "size": 12515656,
-       "md5": "7d3cd12ff48a3aa8e72115d2b03ead8c"
+       "file": "2ad13a8f9a4334350735f41f0bdc0295.sba",
+       "size": 4737164,
+       "md5": "2ad13a8f9a4334350735f41f0bdc0295"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_alpha_normal.sba",
-       "file": "088c991dcb4757802855320c512eb821.sba",
-       "size": 731252,
-       "md5": "088c991dcb4757802855320c512eb821"
+       "file": "9f286a59978c3bb6fdfe8d29dfd90d17.sba",
+       "size": 70744,
+       "md5": "9f286a59978c3bb6fdfe8d29dfd90d17"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_alpha_reflection.sba",
-       "file": "e8951d36f3c7b2e1f4c2672cf852264f.sba",
-       "size": 985268,
-       "md5": "e8951d36f3c7b2e1f4c2672cf852264f"
+       "file": "103fadf291c5e7c502f677b39bf942ad.sba",
+       "size": 150680,
+       "md5": "103fadf291c5e7c502f677b39bf942ad"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_grill.sba",
-       "file": "d9d19a6d8a61391fa22cf7ded8f7153f.sba",
-       "size": 3078788,
-       "md5": "d9d19a6d8a61391fa22cf7ded8f7153f"
+       "file": "9eec3622d7f02dc48bb123ff19ef1cee.sba",
+       "size": 1062340,
+       "md5": "9eec3622d7f02dc48bb123ff19ef1cee"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_grill_normal.sba",
@@ -164,21 +164,21 @@
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_interior.sba",
-       "file": "b214205a3d2731c7c1db7c805ac40bee.sba",
-       "size": 12321496,
-       "md5": "b214205a3d2731c7c1db7c805ac40bee"
+       "file": "cd8937f43e4cbd64e3588660ba6a2c06.sba",
+       "size": 1398368,
+       "md5": "cd8937f43e4cbd64e3588660ba6a2c06"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_misc.sba",
-       "file": "4b9f7159c21526dcf66ec34b1b92c260.sba",
-       "size": 4583464,
-       "md5": "4b9f7159c21526dcf66ec34b1b92c260"
+       "file": "8c8df9452bd36e76a64615314fb417fd.sba",
+       "size": 2634108,
+       "md5": "8c8df9452bd36e76a64615314fb417fd"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_misc_reflection.sba",
-       "file": "75a04016ed7f007c0ad585c52ce7605b.sba",
-       "size": 500772,
-       "md5": "75a04016ed7f007c0ad585c52ce7605b"
+       "file": "923897ef601ec0248a7c8ff808a67609.sba",
+       "size": 69144,
+       "md5": "923897ef601ec0248a7c8ff808a67609"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_taillight_additive.sba",
@@ -188,27 +188,27 @@
       },
       {
        "name": "texture_wheel_porsche_911_gt3rs_2023.sba",
-       "file": "8f28e4bcaa4e0fea9add604b1a9b2f3d.sba",
-       "size": 6177800,
-       "md5": "8f28e4bcaa4e0fea9add604b1a9b2f3d"
+       "file": "3c0077e5f3bd3b303dead47bf48ba18b.sba",
+       "size": 594608,
+       "md5": "3c0077e5f3bd3b303dead47bf48ba18b"
       },
       {
        "name": "texture_wheel_porsche_911_gt3rs_2023_blur.sba",
-       "file": "c4a40eee3e05e4283d29d20c8aa4c6cc.sba",
-       "size": 1891172,
-       "md5": "c4a40eee3e05e4283d29d20c8aa4c6cc"
+       "file": "6ac1e586b418d5ce48180d1a7ac54c3d.sba",
+       "size": 611044,
+       "md5": "6ac1e586b418d5ce48180d1a7ac54c3d"
       },
       {
        "name": "texture_wheel_porsche_911_gt3rs_2023_blur_reflection.sba",
-       "file": "dbff3fd40f1d8f660b6eb4fbe4c9f514.sba",
-       "size": 704768,
-       "md5": "dbff3fd40f1d8f660b6eb4fbe4c9f514"
+       "file": "b58e92db5eee305c2b79ce95e6aa730e.sba",
+       "size": 226956,
+       "md5": "b58e92db5eee305c2b79ce95e6aa730e"
       },
       {
        "name": "texture_wheel_porsche_911_gt3rs_2023_reflection.sba",
-       "file": "e7f6a9dfd4194ff386465a14afb29f4a.sba",
-       "size": 2253428,
-       "md5": "e7f6a9dfd4194ff386465a14afb29f4a"
+       "file": "ca355b325449fb6a9cfba095cfbb6a98.sba",
+       "size": 223016,
+       "md5": "ca355b325449fb6a9cfba095cfbb6a98"
       }
      ]
     },
@@ -278,10 +278,10 @@
      }
     }
    ],
-   "version": "3a4fb2fa70",
-   "updated": "2026-11-08",
-   "size_changed": 46464608,
-   "size_mod": 63275665,
+   "version": "a3237c45e3",
+   "updated": "2026-11-09",
+   "size_changed": 12498916,
+   "size_mod": 29309957,
    "size_stock": 3042002
   },
   {
@@ -296,11 +296,11 @@
      "tags": "cars_ferrari_f40 full_game rest_of_game",
      "mod": {
       "length": 64400,
-      "installed": 4870144,
+      "installed": 1847296,
       "truncated": 64400,
-      "md5": "31a8c00a76d98b959f81b7c43ca831d6",
+      "md5": "19a0154d36f0929907a9b548f07d15e2",
       "hashes": [
-       "31a8c00a76d98b959f81b7c43ca831d6"
+       "19a0154d36f0929907a9b548f07d15e2"
       ],
       "cabs": [
        {
@@ -311,21 +311,21 @@
        },
        {
         "name": "2.cab",
-        "file": "5412673a57786ee6215a34339bb61649.cab",
-        "size": 951656,
-        "md5": "5412673a57786ee6215a34339bb61649"
+        "file": "78ae6eec3d1c45b5893b89926d510d30.cab",
+        "size": 137136,
+        "md5": "78ae6eec3d1c45b5893b89926d510d30"
        },
        {
         "name": "3.cab",
-        "file": "48a511940776ff8dbc87335a3892fe7e.cab",
-        "size": 1453892,
-        "md5": "48a511940776ff8dbc87335a3892fe7e"
+        "file": "b57bd5cbef4911e8d25cabf08fcde95d.cab",
+        "size": 475876,
+        "md5": "b57bd5cbef4911e8d25cabf08fcde95d"
        },
        {
         "name": "4.cab",
-        "file": "6dab2b9e43cd60e1051e334ea14bcde6.cab",
-        "size": 2040488,
-        "md5": "6dab2b9e43cd60e1051e334ea14bcde6"
+        "file": "1f39e0c86f6fe9cbac122493d45a4ed5.cab",
+        "size": 819580,
+        "md5": "1f39e0c86f6fe9cbac122493d45a4ed5"
        },
        {
         "name": "5.cab",
@@ -335,12 +335,12 @@
        },
        {
         "name": "6.cab",
-        "file": "b74f860f0414aa56a03ed049237f0cd1.cab",
-        "size": 72800,
-        "md5": "b74f860f0414aa56a03ed049237f0cd1"
+        "file": "27ca92e4b74fabde389f9a77449fef6b.cab",
+        "size": 59772,
+        "md5": "27ca92e4b74fabde389f9a77449fef6b"
        }
       ],
-      "file": "31a8c00a76d98b959f81b7c43ca831d6.pack",
+      "file": "19a0154d36f0929907a9b548f07d15e2.pack",
       "size": 64400
      },
      "stock": {
@@ -370,15 +370,15 @@
       },
       {
        "name": "texture_ferrari_f40_alpha_reflection.sba",
-       "file": "301c202c651eea9146ee9538896acf2d.sba",
-       "size": 13440,
-       "md5": "301c202c651eea9146ee9538896acf2d"
+       "file": "1af983c913e09fa75c7efde92d8f029f.sba",
+       "size": 6940,
+       "md5": "1af983c913e09fa75c7efde92d8f029f"
       },
       {
        "name": "texture_ferrari_f40_grill.sba",
-       "file": "f9395c2e6b3396dbd45baf5e8f04c7c9.sba",
-       "size": 1453860,
-       "md5": "f9395c2e6b3396dbd45baf5e8f04c7c9"
+       "file": "eda6584387773028208c6ea22f6a77fa.sba",
+       "size": 475844,
+       "md5": "eda6584387773028208c6ea22f6a77fa"
       },
       {
        "name": "texture_ferrari_f40_grill_normal.sba",
@@ -388,21 +388,21 @@
       },
       {
        "name": "texture_ferrari_f40_grill_reflection.sba",
-       "file": "351ff8abafa58cf90d2e04af4ff16ee1.sba",
-       "size": 15584,
-       "md5": "351ff8abafa58cf90d2e04af4ff16ee1"
+       "file": "12aeed18d1c9372e1bdec9305800dfc9.sba",
+       "size": 8908,
+       "md5": "12aeed18d1c9372e1bdec9305800dfc9"
       },
       {
        "name": "texture_ferrari_f40_interior.sba",
-       "file": "48a511940776ff8dbc87335a3892fe7e.sba",
-       "size": 1453892,
-       "md5": "48a511940776ff8dbc87335a3892fe7e"
+       "file": "b57bd5cbef4911e8d25cabf08fcde95d.sba",
+       "size": 475876,
+       "md5": "b57bd5cbef4911e8d25cabf08fcde95d"
       },
       {
        "name": "texture_ferrari_f40_misc.sba",
-       "file": "ff2e660940e1adbbeaa6ce5a9da87eb2.sba",
-       "size": 474360,
-       "md5": "ff2e660940e1adbbeaa6ce5a9da87eb2"
+       "file": "4f4815df91a435d8cd35e3a4abbe9291.sba",
+       "size": 238140,
+       "md5": "4f4815df91a435d8cd35e3a4abbe9291"
       },
       {
        "name": "texture_ferrari_f40_misc_reflection.sba",
@@ -418,15 +418,15 @@
       },
       {
        "name": "texture_wheel_ferrari_f40_blur.sba",
-       "file": "5412673a57786ee6215a34339bb61649.sba",
-       "size": 951656,
-       "md5": "5412673a57786ee6215a34339bb61649"
+       "file": "78ae6eec3d1c45b5893b89926d510d30.sba",
+       "size": 137136,
+       "md5": "78ae6eec3d1c45b5893b89926d510d30"
       },
       {
        "name": "texture_wheel_ferrari_f40_blur_reflection.sba",
-       "file": "a8f8762b6942855da1d112f4a925237a.sba",
-       "size": 13680,
-       "md5": "a8f8762b6942855da1d112f4a925237a"
+       "file": "b3aed209728986203ab9ef54a5533e37.sba",
+       "size": 7148,
+       "md5": "b3aed209728986203ab9ef54a5533e37"
       }
      ]
     },
@@ -496,10 +496,10 @@
      }
     }
    ],
-   "version": "8edf89b75f",
-   "updated": "2026-11-08",
-   "size_changed": 4584340,
-   "size_mod": 17284465,
+   "version": "81bf3ed8d7",
+   "updated": "2026-11-09",
+   "size_changed": 1557860,
+   "size_mod": 14257993,
    "size_stock": 2423882
   },
   {
@@ -514,11 +514,11 @@
      "tags": "cars_ferrari_296_gtb full_game rest_of_game",
      "mod": {
       "length": 40605,
-      "installed": 13422592,
+      "installed": 5046272,
       "truncated": 40605,
-      "md5": "c2e32c52dba4822b5a382b875f00b0ab",
+      "md5": "b57e1a2c80b49be11a09d1237d05b4fe",
       "hashes": [
-       "c2e32c52dba4822b5a382b875f00b0ab"
+       "b57e1a2c80b49be11a09d1237d05b4fe"
       ],
       "cabs": [
        {
@@ -529,9 +529,9 @@
        },
        {
         "name": "2.cab",
-        "file": "e351bf6fee67d5a35594e6e6ea2451b4.cab",
-        "size": 3952616,
-        "md5": "e351bf6fee67d5a35594e6e6ea2451b4"
+        "file": "1f62f58b772f9647eccdb69a5d2eaa1e.cab",
+        "size": 490000,
+        "md5": "1f62f58b772f9647eccdb69a5d2eaa1e"
        },
        {
         "name": "3.cab",
@@ -541,30 +541,30 @@
        },
        {
         "name": "4.cab",
-        "file": "f307a97b0a5bba56c8a13edcc41be279.cab",
-        "size": 1722852,
-        "md5": "f307a97b0a5bba56c8a13edcc41be279"
+        "file": "5922642a17c96d013713d97435fafc1b.cab",
+        "size": 554132,
+        "md5": "5922642a17c96d013713d97435fafc1b"
        },
        {
         "name": "5.cab",
-        "file": "035f39b90c8fa3e5a8e151d8bb135c3d.cab",
-        "size": 1857808,
-        "md5": "035f39b90c8fa3e5a8e151d8bb135c3d"
+        "file": "555000413614ea6e89eca8539d98d046.cab",
+        "size": 682560,
+        "md5": "555000413614ea6e89eca8539d98d046"
        },
        {
         "name": "6.cab",
-        "file": "cd361a29db7991768537132ce01ed742.cab",
-        "size": 282016,
-        "md5": "cd361a29db7991768537132ce01ed742"
+        "file": "48dcde3dabd914c7cc109b08b5fc2cf2.cab",
+        "size": 275136,
+        "md5": "48dcde3dabd914c7cc109b08b5fc2cf2"
        },
        {
         "name": "7.cab",
-        "file": "1bd299d0ce5bcac98724bd2a5cd33ff9.cab",
-        "size": 4418688,
-        "md5": "1bd299d0ce5bcac98724bd2a5cd33ff9"
+        "file": "dab3dc4386efa07da7eb7cdf53361e7f.cab",
+        "size": 1849872,
+        "md5": "dab3dc4386efa07da7eb7cdf53361e7f"
        }
       ],
-      "file": "c2e32c52dba4822b5a382b875f00b0ab.pack",
+      "file": "b57e1a2c80b49be11a09d1237d05b4fe.pack",
       "size": 40605
      },
      "stock": {
@@ -594,15 +594,15 @@
       },
       {
        "name": "texture_ferrari_296_gtb_alpha_reflection.sba",
-       "file": "85dd3b5a9d8dd1473cb613bda58c73e0.sba",
-       "size": 15264,
-       "md5": "85dd3b5a9d8dd1473cb613bda58c73e0"
+       "file": "a6cdc906afb24f6376ce2aca36cb36fe.sba",
+       "size": 8732,
+       "md5": "a6cdc906afb24f6376ce2aca36cb36fe"
       },
       {
        "name": "texture_ferrari_296_gtb_grill.sba",
-       "file": "fa1024250d62676329c1b08cd14765f3.sba",
-       "size": 1722852,
-       "md5": "fa1024250d62676329c1b08cd14765f3"
+       "file": "6cd425593b864375c7ccbf368e1ca425.sba",
+       "size": 554132,
+       "md5": "6cd425593b864375c7ccbf368e1ca425"
       },
       {
        "name": "texture_ferrari_296_gtb_grill_normal.sba",
@@ -612,9 +612,9 @@
       },
       {
        "name": "texture_ferrari_296_gtb_grill_reflection.sba",
-       "file": "5f2b5dd9f37d2ab143dc51785f0c7e91.sba",
-       "size": 23408,
-       "md5": "5f2b5dd9f37d2ab143dc51785f0c7e91"
+       "file": "60892753e8eef9ea2090463e9fd89140.sba",
+       "size": 16524,
+       "md5": "60892753e8eef9ea2090463e9fd89140"
       },
       {
        "name": "texture_ferrari_296_gtb_headlight_additive.sba",
@@ -624,15 +624,15 @@
       },
       {
        "name": "texture_ferrari_296_gtb_interior.sba",
-       "file": "f307a97b0a5bba56c8a13edcc41be279.sba",
-       "size": 1722852,
-       "md5": "f307a97b0a5bba56c8a13edcc41be279"
+       "file": "5922642a17c96d013713d97435fafc1b.sba",
+       "size": 554132,
+       "md5": "5922642a17c96d013713d97435fafc1b"
       },
       {
        "name": "texture_ferrari_296_gtb_misc.sba",
-       "file": "2f81f70ab68fd7478afc82d19cff9e52.sba",
-       "size": 4246040,
-       "md5": "2f81f70ab68fd7478afc82d19cff9e52"
+       "file": "cef6ebbe4d51cece84223998379da3c2.sba",
+       "size": 1677228,
+       "md5": "cef6ebbe4d51cece84223998379da3c2"
       },
       {
        "name": "texture_ferrari_296_gtb_misc_reflection.sba",
@@ -648,9 +648,9 @@
       },
       {
        "name": "texture_wheel_ferrari_296_gtb_blur.sba",
-       "file": "e351bf6fee67d5a35594e6e6ea2451b4.sba",
-       "size": 3952616,
-       "md5": "e351bf6fee67d5a35594e6e6ea2451b4"
+       "file": "1f62f58b772f9647eccdb69a5d2eaa1e.sba",
+       "size": 490000,
+       "md5": "1f62f58b772f9647eccdb69a5d2eaa1e"
       },
       {
        "name": "texture_wheel_ferrari_296_gtb_blur_reflection.sba",
@@ -726,10 +726,10 @@
      }
     }
    ],
-   "version": "7b6ea6cdfc",
-   "updated": "2026-11-08",
-   "size_changed": 13112380,
-   "size_mod": 41641064,
+   "version": "199f33a0b2",
+   "updated": "2026-11-09",
+   "size_changed": 4730096,
+   "size_mod": 33258784,
    "size_stock": 2852369
   },
   {
@@ -779,19 +779,19 @@
      "sku": "texture_etc",
      "tags": "cars_ferrari_sf90_stradale full_game rest_of_game",
      "mod": {
-      "length": 20349,
-      "installed": 12746752,
-      "truncated": 20349,
-      "md5": "c61ee86c7ba56e947b0c386a10b091a0",
+      "length": 20365,
+      "installed": 6049792,
+      "truncated": 20365,
+      "md5": "8ee39935e2bc78665eb32a5e4fc3e11e",
       "hashes": [
-       "c61ee86c7ba56e947b0c386a10b091a0"
+       "8ee39935e2bc78665eb32a5e4fc3e11e"
       ],
       "cabs": [
        {
         "name": "1.cab",
-        "file": "d0a1e9ee7615f7e1eef7200e8f2bd5d0.cab",
-        "size": 13456,
-        "md5": "d0a1e9ee7615f7e1eef7200e8f2bd5d0"
+        "file": "e3e1387a4c34dd5fab66615ede52ad05.cab",
+        "size": 6972,
+        "md5": "e3e1387a4c34dd5fab66615ede52ad05"
        },
        {
         "name": "10.cab",
@@ -801,9 +801,9 @@
        },
        {
         "name": "2.cab",
-        "file": "874c6b48166c3b7c84e8cea6853b497b.cab",
-        "size": 16304,
-        "md5": "874c6b48166c3b7c84e8cea6853b497b"
+        "file": "b794f67ab3a50f0fdf95b803d34d09d5.cab",
+        "size": 9676,
+        "md5": "b794f67ab3a50f0fdf95b803d34d09d5"
        },
        {
         "name": "3.cab",
@@ -825,15 +825,15 @@
        },
        {
         "name": "6.cab",
-        "file": "db3d09314f01cc3d035dbab8436bd978.cab",
-        "size": 3139720,
-        "md5": "db3d09314f01cc3d035dbab8436bd978"
+        "file": "e1d21ed571781232eca6681368c4617f.cab",
+        "size": 386176,
+        "md5": "e1d21ed571781232eca6681368c4617f"
        },
        {
         "name": "7.cab",
-        "file": "d0a5c1eb038f5c3c4c7eae9d4cb522b1.cab",
-        "size": 2977796,
-        "md5": "d0a5c1eb038f5c3c4c7eae9d4cb522b1"
+        "file": "881de4d4d7d7c5e660a35fd7f54469d0.cab",
+        "size": 1012836,
+        "md5": "881de4d4d7d7c5e660a35fd7f54469d0"
        },
        {
         "name": "8.cab",
@@ -843,13 +843,13 @@
        },
        {
         "name": "9.cab",
-        "file": "6e201be6487aa94718ffe8e081248551.cab",
-        "size": 6272612,
-        "md5": "6e201be6487aa94718ffe8e081248551"
+        "file": "d77cc44c3df3f4fcab355e6655f7c6f9.cab",
+        "size": 4307652,
+        "md5": "d77cc44c3df3f4fcab355e6655f7c6f9"
        }
       ],
-      "file": "c61ee86c7ba56e947b0c386a10b091a0.pack",
-      "size": 20349
+      "file": "8ee39935e2bc78665eb32a5e4fc3e11e.pack",
+      "size": 20365
      },
      "stock": {
       "length": 1068017,
@@ -878,15 +878,15 @@
       },
       {
        "name": "texture_ferrari_sf90_stradale_alpha_reflection.sba",
-       "file": "d0a1e9ee7615f7e1eef7200e8f2bd5d0.sba",
-       "size": 13456,
-       "md5": "d0a1e9ee7615f7e1eef7200e8f2bd5d0"
+       "file": "e3e1387a4c34dd5fab66615ede52ad05.sba",
+       "size": 6972,
+       "md5": "e3e1387a4c34dd5fab66615ede52ad05"
       },
       {
        "name": "texture_ferrari_sf90_stradale_grill.sba",
-       "file": "f7b5804ad3e270141f40552c4bd5491f.sba",
-       "size": 2977796,
-       "md5": "f7b5804ad3e270141f40552c4bd5491f"
+       "file": "33bb48788d7c332d34f306730aa6cbaa.sba",
+       "size": 1012836,
+       "md5": "33bb48788d7c332d34f306730aa6cbaa"
       },
       {
        "name": "texture_ferrari_sf90_stradale_grill_normal.sba",
@@ -896,9 +896,9 @@
       },
       {
        "name": "texture_ferrari_sf90_stradale_grill_reflection.sba",
-       "file": "874c6b48166c3b7c84e8cea6853b497b.sba",
-       "size": 16304,
-       "md5": "874c6b48166c3b7c84e8cea6853b497b"
+       "file": "b794f67ab3a50f0fdf95b803d34d09d5.sba",
+       "size": 9676,
+       "md5": "b794f67ab3a50f0fdf95b803d34d09d5"
       },
       {
        "name": "texture_ferrari_sf90_stradale_headlight_additive.sba",
@@ -908,9 +908,9 @@
       },
       {
        "name": "texture_ferrari_sf90_stradale_interior.sba",
-       "file": "d0a5c1eb038f5c3c4c7eae9d4cb522b1.sba",
-       "size": 2977796,
-       "md5": "d0a5c1eb038f5c3c4c7eae9d4cb522b1"
+       "file": "881de4d4d7d7c5e660a35fd7f54469d0.sba",
+       "size": 1012836,
+       "md5": "881de4d4d7d7c5e660a35fd7f54469d0"
       },
       {
        "name": "texture_ferrari_sf90_stradale_misc.sba",
@@ -932,9 +932,9 @@
       },
       {
        "name": "texture_wheel_ferrari_sf90_stradale_blur.sba",
-       "file": "db3d09314f01cc3d035dbab8436bd978.sba",
-       "size": 3139720,
-       "md5": "db3d09314f01cc3d035dbab8436bd978"
+       "file": "e1d21ed571781232eca6681368c4617f.sba",
+       "size": 386176,
+       "md5": "e1d21ed571781232eca6681368c4617f"
       },
       {
        "name": "texture_wheel_ferrari_sf90_stradale_blur_reflection.sba",
@@ -945,10 +945,10 @@
      ]
     }
    ],
-   "version": "72c7c55f04",
-   "updated": "2026-11-08",
-   "size_changed": 12497688,
-   "size_mod": 30002339,
+   "version": "aee9498566",
+   "updated": "2026-11-09",
+   "size_changed": 5801112,
+   "size_mod": 23305779,
    "size_stock": 2498321
   },
   {
@@ -999,18 +999,18 @@
      "tags": "cars_rimac_nevera_2022 cars_rotiform_concave_bru cars_rotiform_monolock_imd full_game rest_of_game",
      "mod": {
       "length": 425335,
-      "installed": 540672,
+      "installed": 81920,
       "truncated": 425335,
-      "md5": "2d3e4b66f622d1e069d8575c52b342a8",
+      "md5": "80a4f626a99acecfa8f3d9c2b280ac61",
       "hashes": [
-       "2d3e4b66f622d1e069d8575c52b342a8"
+       "80a4f626a99acecfa8f3d9c2b280ac61"
       ],
       "cabs": [
        {
         "name": "4.cab",
-        "file": "eaa7f1044316e88a3c7f99912b80f72a.cab",
-        "size": 534616,
-        "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+        "file": "c4a2f778216e07594a65b6fe435d51f0.cab",
+        "size": 77104,
+        "md5": "c4a2f778216e07594a65b6fe435d51f0"
        },
        {
         "name": "5.cab",
@@ -1019,7 +1019,7 @@
         "md5": "3c75752b46a1de77cdaffdf72c3689c4"
        }
       ],
-      "file": "2d3e4b66f622d1e069d8575c52b342a8.pack",
+      "file": "80a4f626a99acecfa8f3d9c2b280ac61.pack",
       "size": 425335
      },
      "stock": {
@@ -1037,9 +1037,9 @@
      "changed": [
       {
        "name": "texture_wheel_rimac_nevera_2022_blur.sba",
-       "file": "eaa7f1044316e88a3c7f99912b80f72a.sba",
-       "size": 534616,
-       "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+       "file": "c4a2f778216e07594a65b6fe435d51f0.sba",
+       "size": 77104,
+       "md5": "c4a2f778216e07594a65b6fe435d51f0"
       },
       {
        "name": "texture_wheel_rimac_nevera_2022_blur_reflection.sba",
@@ -1054,19 +1054,19 @@
      "sku": "texture_etc",
      "tags": "cars_rimac_nevera full_game rest_of_game",
      "mod": {
-      "length": 944,
-      "installed": 4177920,
-      "truncated": 944,
-      "md5": "3f4419a931f55916d23b1b0ba6557aa1",
+      "length": 960,
+      "installed": 2260992,
+      "truncated": 960,
+      "md5": "aafe9956de87c5ed9e38862d4524b384",
       "hashes": [
-       "3f4419a931f55916d23b1b0ba6557aa1"
+       "aafe9956de87c5ed9e38862d4524b384"
       ],
       "cabs": [
        {
         "name": "0.cab",
-        "file": "d79f2fb04243044864ac10882493c2f0.cab",
-        "size": 15120,
-        "md5": "d79f2fb04243044864ac10882493c2f0"
+        "file": "193c8393d33a920851677871f396870b.cab",
+        "size": 8588,
+        "md5": "193c8393d33a920851677871f396870b"
        },
        {
         "name": "1.cab",
@@ -1076,9 +1076,9 @@
        },
        {
         "name": "2.cab",
-        "file": "815c569a72b7eda3e5f48bf116c48abb.cab",
-        "size": 1406772,
-        "md5": "815c569a72b7eda3e5f48bf116c48abb"
+        "file": "e86e7088c53499727132b49c2fb6e468.cab",
+        "size": 452324,
+        "md5": "e86e7088c53499727132b49c2fb6e468"
        },
        {
         "name": "3.cab",
@@ -1088,15 +1088,15 @@
        },
        {
         "name": "4.cab",
-        "file": "a185622b486bc7f838b1b8afa6991f76.cab",
+        "file": "3d6c44c14b7cf0f61668c63a8b3b21ea.cab",
         "size": 6812,
-        "md5": "a185622b486bc7f838b1b8afa6991f76"
+        "md5": "3d6c44c14b7cf0f61668c63a8b3b21ea"
        },
        {
         "name": "5.cab",
-        "file": "83d5b9a08709f7f4df5b288d81dd85c8.cab",
-        "size": 1892032,
-        "md5": "83d5b9a08709f7f4df5b288d81dd85c8"
+        "file": "65678d9cd0f5364d80d7e57413cc4937.cab",
+        "size": 930208,
+        "md5": "65678d9cd0f5364d80d7e57413cc4937"
        },
        {
         "name": "6.cab",
@@ -1105,8 +1105,8 @@
         "md5": "a5c39b91683d10bf6e64d770a27bf863"
        }
       ],
-      "file": "3f4419a931f55916d23b1b0ba6557aa1.pack",
-      "size": 944
+      "file": "aafe9956de87c5ed9e38862d4524b384.pack",
+      "size": 960
      },
      "stock": {
       "length": 414180,
@@ -1135,15 +1135,15 @@
       },
       {
        "name": "texture_rimac_nevera_2022_alpha_reflection.sba",
-       "file": "d79f2fb04243044864ac10882493c2f0.sba",
-       "size": 15120,
-       "md5": "d79f2fb04243044864ac10882493c2f0"
+       "file": "193c8393d33a920851677871f396870b.sba",
+       "size": 8588,
+       "md5": "193c8393d33a920851677871f396870b"
       },
       {
        "name": "texture_rimac_nevera_2022_headlight.sba",
-       "file": "3a611419ce11c694c5d92017af778a83.sba",
-       "size": 1406772,
-       "md5": "3a611419ce11c694c5d92017af778a83"
+       "file": "dff09657e148c010e5055fa0622d4b1f.sba",
+       "size": 452324,
+       "md5": "dff09657e148c010e5055fa0622d4b1f"
       },
       {
        "name": "texture_rimac_nevera_2022_headlight_additive.sba",
@@ -1153,15 +1153,15 @@
       },
       {
        "name": "texture_rimac_nevera_2022_headlight_reflection.sba",
-       "file": "01feb4a02638263770fb688e694015cb.sba",
-       "size": 18992,
-       "md5": "01feb4a02638263770fb688e694015cb"
+       "file": "de988e8855ed64e93ae3fe5c4637201f.sba",
+       "size": 11612,
+       "md5": "de988e8855ed64e93ae3fe5c4637201f"
       },
       {
        "name": "texture_rimac_nevera_2022_interior.sba",
-       "file": "815c569a72b7eda3e5f48bf116c48abb.sba",
-       "size": 1406772,
-       "md5": "815c569a72b7eda3e5f48bf116c48abb"
+       "file": "e86e7088c53499727132b49c2fb6e468.sba",
+       "size": 452324,
+       "md5": "e86e7088c53499727132b49c2fb6e468"
       },
       {
        "name": "texture_rimac_nevera_2022_misc.sba",
@@ -1171,9 +1171,9 @@
       },
       {
        "name": "texture_rimac_nevera_2022_misc_reflection.sba",
-       "file": "a185622b486bc7f838b1b8afa6991f76.sba",
+       "file": "3d6c44c14b7cf0f61668c63a8b3b21ea.sba",
        "size": 6812,
-       "md5": "a185622b486bc7f838b1b8afa6991f76"
+       "md5": "3d6c44c14b7cf0f61668c63a8b3b21ea"
       },
       {
        "name": "texture_rimac_nevera_2022_taillight_additive.sba",
@@ -1213,10 +1213,10 @@
      }
     }
    ],
-   "version": "d77e1f5087",
-   "updated": "2026-11-08",
-   "size_changed": 4610860,
-   "size_mod": 22237142,
+   "version": "ba6bf4f547",
+   "updated": "2026-11-09",
+   "size_changed": 2230540,
+   "size_mod": 19856842,
    "size_stock": 3685000
   },
   {
@@ -1267,18 +1267,18 @@
      "tags": "cars_rimac_nevera_2022 cars_rotiform_concave_bru cars_rotiform_monolock_imd full_game rest_of_game",
      "mod": {
       "length": 425335,
-      "installed": 540672,
+      "installed": 81920,
       "truncated": 425335,
-      "md5": "2d3e4b66f622d1e069d8575c52b342a8",
+      "md5": "80a4f626a99acecfa8f3d9c2b280ac61",
       "hashes": [
-       "2d3e4b66f622d1e069d8575c52b342a8"
+       "80a4f626a99acecfa8f3d9c2b280ac61"
       ],
       "cabs": [
        {
         "name": "4.cab",
-        "file": "eaa7f1044316e88a3c7f99912b80f72a.cab",
-        "size": 534616,
-        "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+        "file": "c4a2f778216e07594a65b6fe435d51f0.cab",
+        "size": 77104,
+        "md5": "c4a2f778216e07594a65b6fe435d51f0"
        },
        {
         "name": "5.cab",
@@ -1287,7 +1287,7 @@
         "md5": "3c75752b46a1de77cdaffdf72c3689c4"
        }
       ],
-      "file": "2d3e4b66f622d1e069d8575c52b342a8.pack",
+      "file": "80a4f626a99acecfa8f3d9c2b280ac61.pack",
       "size": 425335
      },
      "stock": {
@@ -1305,9 +1305,9 @@
      "changed": [
       {
        "name": "texture_wheel_rimac_nevera_2022_blur.sba",
-       "file": "eaa7f1044316e88a3c7f99912b80f72a.sba",
-       "size": 534616,
-       "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+       "file": "c4a2f778216e07594a65b6fe435d51f0.sba",
+       "size": 77104,
+       "md5": "c4a2f778216e07594a65b6fe435d51f0"
       },
       {
        "name": "texture_wheel_rimac_nevera_2022_blur_reflection.sba",
@@ -1323,18 +1323,18 @@
      "tags": "cars_rimac_nevera full_game rest_of_game",
      "mod": {
       "length": 960,
-      "installed": 4169728,
+      "installed": 2252800,
       "truncated": 960,
-      "md5": "e6c0ffebf1773ddd311387de423f9e29",
+      "md5": "ee465d417583d2d2362d17c3364dfcde",
       "hashes": [
-       "e6c0ffebf1773ddd311387de423f9e29"
+       "ee465d417583d2d2362d17c3364dfcde"
       ],
       "cabs": [
        {
         "name": "0.cab",
-        "file": "d79f2fb04243044864ac10882493c2f0.cab",
-        "size": 15120,
-        "md5": "d79f2fb04243044864ac10882493c2f0"
+        "file": "193c8393d33a920851677871f396870b.cab",
+        "size": 8588,
+        "md5": "193c8393d33a920851677871f396870b"
        },
        {
         "name": "1.cab",
@@ -1344,9 +1344,9 @@
        },
        {
         "name": "2.cab",
-        "file": "815c569a72b7eda3e5f48bf116c48abb.cab",
-        "size": 1406772,
-        "md5": "815c569a72b7eda3e5f48bf116c48abb"
+        "file": "e86e7088c53499727132b49c2fb6e468.cab",
+        "size": 452324,
+        "md5": "e86e7088c53499727132b49c2fb6e468"
        },
        {
         "name": "3.cab",
@@ -1362,9 +1362,9 @@
        },
        {
         "name": "5.cab",
-        "file": "83d5b9a08709f7f4df5b288d81dd85c8.cab",
-        "size": 1892032,
-        "md5": "83d5b9a08709f7f4df5b288d81dd85c8"
+        "file": "65678d9cd0f5364d80d7e57413cc4937.cab",
+        "size": 930208,
+        "md5": "65678d9cd0f5364d80d7e57413cc4937"
        },
        {
         "name": "6.cab",
@@ -1373,7 +1373,7 @@
         "md5": "a5c39b91683d10bf6e64d770a27bf863"
        }
       ],
-      "file": "e6c0ffebf1773ddd311387de423f9e29.pack",
+      "file": "ee465d417583d2d2362d17c3364dfcde.pack",
       "size": 960
      },
      "stock": {
@@ -1403,15 +1403,15 @@
       },
       {
        "name": "texture_rimac_nevera_2022_alpha_reflection.sba",
-       "file": "d79f2fb04243044864ac10882493c2f0.sba",
-       "size": 15120,
-       "md5": "d79f2fb04243044864ac10882493c2f0"
+       "file": "193c8393d33a920851677871f396870b.sba",
+       "size": 8588,
+       "md5": "193c8393d33a920851677871f396870b"
       },
       {
        "name": "texture_rimac_nevera_2022_headlight.sba",
-       "file": "3a611419ce11c694c5d92017af778a83.sba",
-       "size": 1406772,
-       "md5": "3a611419ce11c694c5d92017af778a83"
+       "file": "dff09657e148c010e5055fa0622d4b1f.sba",
+       "size": 452324,
+       "md5": "dff09657e148c010e5055fa0622d4b1f"
       },
       {
        "name": "texture_rimac_nevera_2022_headlight_additive.sba",
@@ -1421,15 +1421,15 @@
       },
       {
        "name": "texture_rimac_nevera_2022_headlight_reflection.sba",
-       "file": "01feb4a02638263770fb688e694015cb.sba",
-       "size": 18992,
-       "md5": "01feb4a02638263770fb688e694015cb"
+       "file": "de988e8855ed64e93ae3fe5c4637201f.sba",
+       "size": 11612,
+       "md5": "de988e8855ed64e93ae3fe5c4637201f"
       },
       {
        "name": "texture_rimac_nevera_2022_interior.sba",
-       "file": "815c569a72b7eda3e5f48bf116c48abb.sba",
-       "size": 1406772,
-       "md5": "815c569a72b7eda3e5f48bf116c48abb"
+       "file": "e86e7088c53499727132b49c2fb6e468.sba",
+       "size": 452324,
+       "md5": "e86e7088c53499727132b49c2fb6e468"
       },
       {
        "name": "texture_rimac_nevera_2022_misc.sba",
@@ -1481,10 +1481,10 @@
      }
     }
    ],
-   "version": "9c44b5b7b6",
-   "updated": "2026-11-08",
-   "size_changed": 4603232,
-   "size_mod": 21665570,
+   "version": "4345dbc0d8",
+   "updated": "2026-11-09",
+   "size_changed": 2222912,
+   "size_mod": 19285254,
    "size_stock": 3685000
   }
  ]
