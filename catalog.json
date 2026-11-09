@@ -1088,9 +1088,9 @@
        },
        {
         "name": "4.cab",
-        "file": "3d6c44c14b7cf0f61668c63a8b3b21ea.cab",
+        "file": "a185622b486bc7f838b1b8afa6991f76.cab",
         "size": 6812,
-        "md5": "3d6c44c14b7cf0f61668c63a8b3b21ea"
+        "md5": "a185622b486bc7f838b1b8afa6991f76"
        },
        {
         "name": "5.cab",
@@ -1171,9 +1171,9 @@
       },
       {
        "name": "texture_rimac_nevera_2022_misc_reflection.sba",
-       "file": "3d6c44c14b7cf0f61668c63a8b3b21ea.sba",
+       "file": "a185622b486bc7f838b1b8afa6991f76.sba",
        "size": 6812,
-       "md5": "3d6c44c14b7cf0f61668c63a8b3b21ea"
+       "md5": "a185622b486bc7f838b1b8afa6991f76"
       },
       {
        "name": "texture_rimac_nevera_2022_taillight_additive.sba",
@@ -1213,7 +1213,7 @@
      }
     }
    ],
-   "version": "ba6bf4f547",
+   "version": "b7038e7639",
    "updated": "2026-11-09",
    "size_changed": 2230540,
    "size_mod": 19856842,
