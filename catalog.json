@@ -1,0 +1,969 @@
+{
+ "schema": 1,
+ "app": {
+  "version_code": 2,
+  "version_name": "2.0",
+  "apk": "NFSNL-CarMods.apk"
+ },
+ "cars": [
+  {
+   "id": "porsche_911_gt3rs_2023",
+   "car": "porsche_911_gt3rs_2023",
+   "label": "保时捷 911 GT3 RS → GT3 R「Roxy」",
+   "label_en": "Porsche 911 GT3 RS → GT3 R \"Roxy\"",
+   "packs": [
+    {
+     "id": "be8f10979616353dabc302df2fceafd4",
+     "mod": {
+      "length": 1136,
+      "installed": 46682112,
+      "truncated": 1136,
+      "md5": "784de03b0203f5def60786e3c84c8b8e",
+      "hashes": [
+       "784de03b0203f5def60786e3c84c8b8e"
+      ],
+      "cabs": [
+       {
+        "name": "0.cab",
+        "file": "d9d19a6d8a61391fa22cf7ded8f7153f.cab",
+        "size": 3078788,
+        "md5": "d9d19a6d8a61391fa22cf7ded8f7153f"
+       },
+       {
+        "name": "1.cab",
+        "file": "e7f6a9dfd4194ff386465a14afb29f4a.cab",
+        "size": 2253428,
+        "md5": "e7f6a9dfd4194ff386465a14afb29f4a"
+       },
+       {
+        "name": "10.cab",
+        "file": "7d3cd12ff48a3aa8e72115d2b03ead8c.cab",
+        "size": 12515656,
+        "md5": "7d3cd12ff48a3aa8e72115d2b03ead8c"
+       },
+       {
+        "name": "11.cab",
+        "file": "ce770b44c99ae7498bb734d34d9519a2.cab",
+        "size": 636992,
+        "md5": "ce770b44c99ae7498bb734d34d9519a2"
+       },
+       {
+        "name": "12.cab",
+        "file": "d97bfc189165e0f289404fecb82d357c.cab",
+        "size": 268656,
+        "md5": "d97bfc189165e0f289404fecb82d357c"
+       },
+       {
+        "name": "2.cab",
+        "file": "8f28e4bcaa4e0fea9add604b1a9b2f3d.cab",
+        "size": 6177800,
+        "md5": "8f28e4bcaa4e0fea9add604b1a9b2f3d"
+       },
+       {
+        "name": "3.cab",
+        "file": "dbff3fd40f1d8f660b6eb4fbe4c9f514.cab",
+        "size": 704768,
+        "md5": "dbff3fd40f1d8f660b6eb4fbe4c9f514"
+       },
+       {
+        "name": "4.cab",
+        "file": "c4a40eee3e05e4283d29d20c8aa4c6cc.cab",
+        "size": 1891172,
+        "md5": "c4a40eee3e05e4283d29d20c8aa4c6cc"
+       },
+       {
+        "name": "5.cab",
+        "file": "088c991dcb4757802855320c512eb821.cab",
+        "size": 731252,
+        "md5": "088c991dcb4757802855320c512eb821"
+       },
+       {
+        "name": "6.cab",
+        "file": "e8951d36f3c7b2e1f4c2672cf852264f.cab",
+        "size": 985268,
+        "md5": "e8951d36f3c7b2e1f4c2672cf852264f"
+       },
+       {
+        "name": "7.cab",
+        "file": "b214205a3d2731c7c1db7c805ac40bee.cab",
+        "size": 12321496,
+        "md5": "b214205a3d2731c7c1db7c805ac40bee"
+       },
+       {
+        "name": "8.cab",
+        "file": "4b9f7159c21526dcf66ec34b1b92c260.cab",
+        "size": 4583464,
+        "md5": "4b9f7159c21526dcf66ec34b1b92c260"
+       },
+       {
+        "name": "9.cab",
+        "file": "75a04016ed7f007c0ad585c52ce7605b.cab",
+        "size": 500772,
+        "md5": "75a04016ed7f007c0ad585c52ce7605b"
+       }
+      ],
+      "file": "784de03b0203f5def60786e3c84c8b8e.pack",
+      "size": 1136
+     },
+     "stock": {
+      "length": 1118776,
+      "installed": 0,
+      "truncated": 1118776,
+      "md5": "a6f458bfaee7d50fee6df7f2287857c1",
+      "hashes": [
+       "a6f458bfaee7d50fee6df7f2287857c1"
+      ],
+      "cabs": [],
+      "file": "a6f458bfaee7d50fee6df7f2287857c1.pack",
+      "size": 1118776
+     }
+    },
+    {
+     "id": "c2e8b234732440ff281467daa688571e",
+     "mod": {
+      "length": 183484,
+      "installed": 0,
+      "truncated": 183484,
+      "md5": "6028d3987dba91122c7c6a5e4ce78548",
+      "hashes": [
+       "6028d3987dba91122c7c6a5e4ce78548"
+      ],
+      "cabs": [],
+      "file": "6028d3987dba91122c7c6a5e4ce78548.pack",
+      "size": 183484
+     },
+     "stock": {
+      "length": 187002,
+      "installed": 0,
+      "truncated": 187002,
+      "md5": "3335eb6530f7f880e297655c29a9252d",
+      "hashes": [
+       "3335eb6530f7f880e297655c29a9252d"
+      ],
+      "cabs": [],
+      "file": "3335eb6530f7f880e297655c29a9252d.pack",
+      "size": 187002
+     }
+    },
+    {
+     "id": "da7cb7bcf44b3e9c3d7f0618f5eba7cb",
+     "mod": {
+      "length": 221869,
+      "installed": 16220160,
+      "truncated": 221869,
+      "md5": "1fc2fe372d9b118fe0f26863da1ef18d",
+      "hashes": [
+       "1fc2fe372d9b118fe0f26863da1ef18d"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "830c1c072bf3352f3f2b678755a2d4b1.cab",
+        "size": 16219664,
+        "md5": "830c1c072bf3352f3f2b678755a2d4b1"
+       }
+      ],
+      "file": "1fc2fe372d9b118fe0f26863da1ef18d.pack",
+      "size": 221869
+     },
+     "stock": {
+      "length": 1736224,
+      "installed": 0,
+      "truncated": 1736224,
+      "md5": "0b401ccd27b1db2bc861f543ee7247c3",
+      "hashes": [
+       "0b401ccd27b1db2bc861f543ee7247c3"
+      ],
+      "cabs": [],
+      "file": "0b401ccd27b1db2bc861f543ee7247c3.pack",
+      "size": 1736224
+     }
+    }
+   ],
+   "version": "3a4fb2fa70",
+   "updated": "2026-11-08",
+   "size_mod": 63275665,
+   "size_stock": 3042002
+  },
+  {
+   "id": "ferrari_f40",
+   "car": "ferrari_f40",
+   "label": "法拉利 F40 → LB-Works F40",
+   "label_en": "Ferrari F40 → LB-Works F40",
+   "packs": [
+    {
+     "id": "26dc6cf871d02d652d677c9c433ae40b",
+     "mod": {
+      "length": 64400,
+      "installed": 4870144,
+      "truncated": 64400,
+      "md5": "31a8c00a76d98b959f81b7c43ca831d6",
+      "hashes": [
+       "31a8c00a76d98b959f81b7c43ca831d6"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "971305c4876a83af91b515b972dee721.cab",
+        "size": 34724,
+        "md5": "971305c4876a83af91b515b972dee721"
+       },
+       {
+        "name": "2.cab",
+        "file": "5412673a57786ee6215a34339bb61649.cab",
+        "size": 951656,
+        "md5": "5412673a57786ee6215a34339bb61649"
+       },
+       {
+        "name": "3.cab",
+        "file": "48a511940776ff8dbc87335a3892fe7e.cab",
+        "size": 1453892,
+        "md5": "48a511940776ff8dbc87335a3892fe7e"
+       },
+       {
+        "name": "4.cab",
+        "file": "6dab2b9e43cd60e1051e334ea14bcde6.cab",
+        "size": 2040488,
+        "md5": "6dab2b9e43cd60e1051e334ea14bcde6"
+       },
+       {
+        "name": "5.cab",
+        "file": "d2e5b5219d8eb4085d78320da740874e.cab",
+        "size": 304880,
+        "md5": "d2e5b5219d8eb4085d78320da740874e"
+       },
+       {
+        "name": "6.cab",
+        "file": "b74f860f0414aa56a03ed049237f0cd1.cab",
+        "size": 72800,
+        "md5": "b74f860f0414aa56a03ed049237f0cd1"
+       }
+      ],
+      "file": "31a8c00a76d98b959f81b7c43ca831d6.pack",
+      "size": 64400
+     },
+     "stock": {
+      "length": 526245,
+      "installed": 0,
+      "truncated": 526245,
+      "md5": "2477041a11e37a3ecafcb20b4ba0b414",
+      "hashes": [
+       "2477041a11e37a3ecafcb20b4ba0b414"
+      ],
+      "cabs": [],
+      "file": "2477041a11e37a3ecafcb20b4ba0b414.pack",
+      "size": 526245
+     }
+    },
+    {
+     "id": "61f516f6c53ad153f6c45e9da7889770",
+     "mod": {
+      "length": 501189,
+      "installed": 0,
+      "truncated": 501189,
+      "md5": "a9e52a3b1f4f4d01c3f9327f41261ed2",
+      "hashes": [
+       "a9e52a3b1f4f4d01c3f9327f41261ed2"
+      ],
+      "cabs": [],
+      "file": "a9e52a3b1f4f4d01c3f9327f41261ed2.pack",
+      "size": 501189
+     },
+     "stock": {
+      "length": 507013,
+      "installed": 0,
+      "truncated": 507013,
+      "md5": "9b8442fdf124595ab039dfed0b4f33fe",
+      "hashes": [
+       "9b8442fdf124595ab039dfed0b4f33fe"
+      ],
+      "cabs": [],
+      "file": "9b8442fdf124595ab039dfed0b4f33fe.pack",
+      "size": 507013
+     }
+    },
+    {
+     "id": "a4344f6aa7c3cd18b0e03d1a5192827c",
+     "mod": {
+      "length": 2805832,
+      "installed": 9056256,
+      "truncated": 2805832,
+      "md5": "20e8a16b54d08a65a537dbe8b5ccdca1",
+      "hashes": [
+       "20e8a16b54d08a65a537dbe8b5ccdca1"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "f147e9e4d60b2866e172a00ca6089465.cab",
+        "size": 9054604,
+        "md5": "f147e9e4d60b2866e172a00ca6089465"
+       }
+      ],
+      "file": "20e8a16b54d08a65a537dbe8b5ccdca1.pack",
+      "size": 2805832
+     },
+     "stock": {
+      "length": 1390624,
+      "installed": 0,
+      "truncated": 1390624,
+      "md5": "4091dce91ffb0a32c59579367fab095e",
+      "hashes": [
+       "4091dce91ffb0a32c59579367fab095e"
+      ],
+      "cabs": [],
+      "file": "4091dce91ffb0a32c59579367fab095e.pack",
+      "size": 1390624
+     }
+    }
+   ],
+   "version": "8edf89b75f",
+   "updated": "2026-11-08",
+   "size_mod": 17284465,
+   "size_stock": 2423882
+  },
+  {
+   "id": "ferrari_296_gtb",
+   "car": "ferrari_296_gtb",
+   "label": "法拉利 296 GTB → 296 GT3 Verstappen.com Racing",
+   "label_en": "Ferrari 296 GTB → 296 GT3 Verstappen.com Racing",
+   "packs": [
+    {
+     "id": "b9889e1642a12543c022de06d44d528b",
+     "mod": {
+      "length": 40605,
+      "installed": 13422592,
+      "truncated": 40605,
+      "md5": "c2e32c52dba4822b5a382b875f00b0ab",
+      "hashes": [
+       "c2e32c52dba4822b5a382b875f00b0ab"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "176571d77aa1a4996a1ea82c1932bcd1.cab",
+        "size": 1176548,
+        "md5": "176571d77aa1a4996a1ea82c1932bcd1"
+       },
+       {
+        "name": "2.cab",
+        "file": "e351bf6fee67d5a35594e6e6ea2451b4.cab",
+        "size": 3952616,
+        "md5": "e351bf6fee67d5a35594e6e6ea2451b4"
+       },
+       {
+        "name": "3.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       },
+       {
+        "name": "4.cab",
+        "file": "f307a97b0a5bba56c8a13edcc41be279.cab",
+        "size": 1722852,
+        "md5": "f307a97b0a5bba56c8a13edcc41be279"
+       },
+       {
+        "name": "5.cab",
+        "file": "035f39b90c8fa3e5a8e151d8bb135c3d.cab",
+        "size": 1857808,
+        "md5": "035f39b90c8fa3e5a8e151d8bb135c3d"
+       },
+       {
+        "name": "6.cab",
+        "file": "cd361a29db7991768537132ce01ed742.cab",
+        "size": 282016,
+        "md5": "cd361a29db7991768537132ce01ed742"
+       },
+       {
+        "name": "7.cab",
+        "file": "1bd299d0ce5bcac98724bd2a5cd33ff9.cab",
+        "size": 4418688,
+        "md5": "1bd299d0ce5bcac98724bd2a5cd33ff9"
+       }
+      ],
+      "file": "c2e32c52dba4822b5a382b875f00b0ab.pack",
+      "size": 40605
+     },
+     "stock": {
+      "length": 718291,
+      "installed": 0,
+      "truncated": 718291,
+      "md5": "246a27dc343cc95f5267d114d9ca22ff",
+      "hashes": [
+       "246a27dc343cc95f5267d114d9ca22ff"
+      ],
+      "cabs": [],
+      "file": "246a27dc343cc95f5267d114d9ca22ff.pack",
+      "size": 718291
+     }
+    },
+    {
+     "id": "bd38ed6c9748be45ee95b641e98df066",
+     "mod": {
+      "length": 144847,
+      "installed": 27426816,
+      "truncated": 144847,
+      "md5": "2d57a860e8665e24980dad400a180bab",
+      "hashes": [
+       "2d57a860e8665e24980dad400a180bab"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "507b1802581a577707f8b3fda1053814.cab",
+        "size": 27423568,
+        "md5": "507b1802581a577707f8b3fda1053814"
+       }
+      ],
+      "file": "2d57a860e8665e24980dad400a180bab.pack",
+      "size": 144847
+     },
+     "stock": {
+      "length": 1512272,
+      "installed": 0,
+      "truncated": 1512272,
+      "md5": "d705725961fe78a9054b27d5e6347223",
+      "hashes": [
+       "d705725961fe78a9054b27d5e6347223"
+      ],
+      "cabs": [],
+      "file": "d705725961fe78a9054b27d5e6347223.pack",
+      "size": 1512272
+     }
+    },
+    {
+     "id": "d77abea7bc265ebb4b32d2a77aeeb5a8",
+     "mod": {
+      "length": 618284,
+      "installed": 0,
+      "truncated": 618284,
+      "md5": "10bbb67c1d61a04ab4ee9094d35c8dca",
+      "hashes": [
+       "10bbb67c1d61a04ab4ee9094d35c8dca"
+      ],
+      "cabs": [],
+      "file": "10bbb67c1d61a04ab4ee9094d35c8dca.pack",
+      "size": 618284
+     },
+     "stock": {
+      "length": 621806,
+      "installed": 0,
+      "truncated": 621806,
+      "md5": "cfd274eaab34c51ab46b671e3a2e1109",
+      "hashes": [
+       "cfd274eaab34c51ab46b671e3a2e1109"
+      ],
+      "cabs": [],
+      "file": "cfd274eaab34c51ab46b671e3a2e1109.pack",
+      "size": 621806
+     }
+    }
+   ],
+   "version": "7b6ea6cdfc",
+   "updated": "2026-11-08",
+   "size_mod": 41641064,
+   "size_stock": 2852369
+  },
+  {
+   "id": "ferrari_sf90_stradale",
+   "car": "ferrari_sf90_stradale",
+   "label": "法拉利 SF90 Stradale → SF90 XX",
+   "label_en": "Ferrari SF90 Stradale → SF90 XX",
+   "packs": [
+    {
+     "id": "07d3435e5353ad4ce05212b90f4ae70b",
+     "mod": {
+      "length": 124950,
+      "installed": 17133568,
+      "truncated": 124950,
+      "md5": "01584b47f1deb760e6a82945ca0f7894",
+      "hashes": [
+       "01584b47f1deb760e6a82945ca0f7894"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "81bfc507e4dd8654800c8c784c8a1336.cab",
+        "size": 17131436,
+        "md5": "81bfc507e4dd8654800c8c784c8a1336"
+       }
+      ],
+      "file": "01584b47f1deb760e6a82945ca0f7894.pack",
+      "size": 124950
+     },
+     "stock": {
+      "length": 1430304,
+      "installed": 0,
+      "truncated": 1430304,
+      "md5": "6ebb8f675423b73aa9d7329fb2c14724",
+      "hashes": [
+       "6ebb8f675423b73aa9d7329fb2c14724"
+      ],
+      "cabs": [],
+      "file": "6ebb8f675423b73aa9d7329fb2c14724.pack",
+      "size": 1430304
+     }
+    },
+    {
+     "id": "5c43e8c982852dbb790bb6e3f3fa1b56",
+     "mod": {
+      "length": 20349,
+      "installed": 12746752,
+      "truncated": 20349,
+      "md5": "c61ee86c7ba56e947b0c386a10b091a0",
+      "hashes": [
+       "c61ee86c7ba56e947b0c386a10b091a0"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "d0a1e9ee7615f7e1eef7200e8f2bd5d0.cab",
+        "size": 13456,
+        "md5": "d0a1e9ee7615f7e1eef7200e8f2bd5d0"
+       },
+       {
+        "name": "10.cab",
+        "file": "58dddb1d23533be7eb1bc9c7bb1e2391.cab",
+        "size": 264336,
+        "md5": "58dddb1d23533be7eb1bc9c7bb1e2391"
+       },
+       {
+        "name": "2.cab",
+        "file": "874c6b48166c3b7c84e8cea6853b497b.cab",
+        "size": 16304,
+        "md5": "874c6b48166c3b7c84e8cea6853b497b"
+       },
+       {
+        "name": "3.cab",
+        "file": "4e2edd1b62a50808fc86f3d7950c6466.cab",
+        "size": 34932,
+        "md5": "4e2edd1b62a50808fc86f3d7950c6466"
+       },
+       {
+        "name": "4.cab",
+        "file": "768bcc88146548944f21b8de38dc3475.cab",
+        "size": 3216,
+        "md5": "768bcc88146548944f21b8de38dc3475"
+       },
+       {
+        "name": "5.cab",
+        "file": "768bcc88146548944f21b8de38dc3475.cab",
+        "size": 3216,
+        "md5": "768bcc88146548944f21b8de38dc3475"
+       },
+       {
+        "name": "6.cab",
+        "file": "db3d09314f01cc3d035dbab8436bd978.cab",
+        "size": 3139720,
+        "md5": "db3d09314f01cc3d035dbab8436bd978"
+       },
+       {
+        "name": "7.cab",
+        "file": "d0a5c1eb038f5c3c4c7eae9d4cb522b1.cab",
+        "size": 2977796,
+        "md5": "d0a5c1eb038f5c3c4c7eae9d4cb522b1"
+       },
+       {
+        "name": "8.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       },
+       {
+        "name": "9.cab",
+        "file": "6e201be6487aa94718ffe8e081248551.cab",
+        "size": 6272612,
+        "md5": "6e201be6487aa94718ffe8e081248551"
+       }
+      ],
+      "file": "c61ee86c7ba56e947b0c386a10b091a0.pack",
+      "size": 20349
+     },
+     "stock": {
+      "length": 1068017,
+      "installed": 0,
+      "truncated": 1068017,
+      "md5": "bd5e8053ca75886f0575bc8ff0162a79",
+      "hashes": [
+       "bd5e8053ca75886f0575bc8ff0162a79"
+      ],
+      "cabs": [],
+      "file": "bd5e8053ca75886f0575bc8ff0162a79.pack",
+      "size": 1068017
+     }
+    }
+   ],
+   "version": "72c7c55f04",
+   "updated": "2026-11-08",
+   "size_mod": 30002339,
+   "size_stock": 2498321
+  },
+  {
+   "id": "rimac_nevera",
+   "car": "rimac_nevera",
+   "label": "Rimac Nevera → Nevera R（首发色）",
+   "label_en": "Rimac Nevera → Nevera R (launch colour)",
+   "packs": [
+    {
+     "id": "0cce29e3f3b8ed1b9438dfdf43b97fa3",
+     "mod": {
+      "length": 1024440,
+      "installed": 15659008,
+      "truncated": 1024440,
+      "md5": "3db5f64b029b6e3231a181089ab09ba2",
+      "hashes": [
+       "3db5f64b029b6e3231a181089ab09ba2"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "cec5e5fc5c54bfd405c093f786494174.cab",
+        "size": 15656296,
+        "md5": "cec5e5fc5c54bfd405c093f786494174"
+       }
+      ],
+      "file": "3db5f64b029b6e3231a181089ab09ba2.pack",
+      "size": 1024440
+     },
+     "stock": {
+      "length": 2134560,
+      "installed": 0,
+      "truncated": 2134560,
+      "md5": "89d4081ff9280ac54078265f94e4a9e3",
+      "hashes": [
+       "89d4081ff9280ac54078265f94e4a9e3"
+      ],
+      "cabs": [],
+      "file": "89d4081ff9280ac54078265f94e4a9e3.pack",
+      "size": 2134560
+     }
+    },
+    {
+     "id": "3ecba5b249a5d6d88b49c5c420ef5487",
+     "mod": {
+      "length": 425335,
+      "installed": 540672,
+      "truncated": 425335,
+      "md5": "2d3e4b66f622d1e069d8575c52b342a8",
+      "hashes": [
+       "2d3e4b66f622d1e069d8575c52b342a8"
+      ],
+      "cabs": [
+       {
+        "name": "4.cab",
+        "file": "eaa7f1044316e88a3c7f99912b80f72a.cab",
+        "size": 534616,
+        "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+       },
+       {
+        "name": "5.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       }
+      ],
+      "file": "2d3e4b66f622d1e069d8575c52b342a8.pack",
+      "size": 425335
+     },
+     "stock": {
+      "length": 706540,
+      "installed": 0,
+      "truncated": 706540,
+      "md5": "de39b0bc7e2cf2004fc1b7b6fe2390ce",
+      "hashes": [
+       "de39b0bc7e2cf2004fc1b7b6fe2390ce"
+      ],
+      "cabs": [],
+      "file": "de39b0bc7e2cf2004fc1b7b6fe2390ce.pack",
+      "size": 706540
+     }
+    },
+    {
+     "id": "ac9cecdac1c2df81ed1707d9af0054f6",
+     "mod": {
+      "length": 944,
+      "installed": 4177920,
+      "truncated": 944,
+      "md5": "3f4419a931f55916d23b1b0ba6557aa1",
+      "hashes": [
+       "3f4419a931f55916d23b1b0ba6557aa1"
+      ],
+      "cabs": [
+       {
+        "name": "0.cab",
+        "file": "d79f2fb04243044864ac10882493c2f0.cab",
+        "size": 15120,
+        "md5": "d79f2fb04243044864ac10882493c2f0"
+       },
+       {
+        "name": "1.cab",
+        "file": "75d48c148867341fe6375e55826ba4a8.cab",
+        "size": 582804,
+        "md5": "75d48c148867341fe6375e55826ba4a8"
+       },
+       {
+        "name": "2.cab",
+        "file": "815c569a72b7eda3e5f48bf116c48abb.cab",
+        "size": 1406772,
+        "md5": "815c569a72b7eda3e5f48bf116c48abb"
+       },
+       {
+        "name": "3.cab",
+        "file": "f059b0087a78bf3103233413de0413b0.cab",
+        "size": 6812,
+        "md5": "f059b0087a78bf3103233413de0413b0"
+       },
+       {
+        "name": "4.cab",
+        "file": "a185622b486bc7f838b1b8afa6991f76.cab",
+        "size": 6812,
+        "md5": "a185622b486bc7f838b1b8afa6991f76"
+       },
+       {
+        "name": "5.cab",
+        "file": "83d5b9a08709f7f4df5b288d81dd85c8.cab",
+        "size": 1892032,
+        "md5": "83d5b9a08709f7f4df5b288d81dd85c8"
+       },
+       {
+        "name": "6.cab",
+        "file": "a5c39b91683d10bf6e64d770a27bf863.cab",
+        "size": 255120,
+        "md5": "a5c39b91683d10bf6e64d770a27bf863"
+       }
+      ],
+      "file": "3f4419a931f55916d23b1b0ba6557aa1.pack",
+      "size": 944
+     },
+     "stock": {
+      "length": 414180,
+      "installed": 0,
+      "truncated": 414180,
+      "md5": "a0bec7d157bb4ae6be58c07d4fe18e93",
+      "hashes": [
+       "a0bec7d157bb4ae6be58c07d4fe18e93"
+      ],
+      "cabs": [],
+      "file": "a0bec7d157bb4ae6be58c07d4fe18e93.pack",
+      "size": 414180
+     }
+    },
+    {
+     "id": "d98cfeadfeb0a4b3f2621b209ef007e4",
+     "mod": {
+      "length": 426807,
+      "installed": 0,
+      "truncated": 426807,
+      "md5": "5a9067d5b918ead61c26f50f6b2191f9",
+      "hashes": [
+       "5a9067d5b918ead61c26f50f6b2191f9"
+      ],
+      "cabs": [],
+      "file": "5a9067d5b918ead61c26f50f6b2191f9.pack",
+      "size": 426807
+     },
+     "stock": {
+      "length": 429720,
+      "installed": 0,
+      "truncated": 429720,
+      "md5": "b9102f9896af4b0fc80d37ae825f367c",
+      "hashes": [
+       "b9102f9896af4b0fc80d37ae825f367c"
+      ],
+      "cabs": [],
+      "file": "b9102f9896af4b0fc80d37ae825f367c.pack",
+      "size": 429720
+     }
+    }
+   ],
+   "version": "d77e1f5087",
+   "updated": "2026-11-08",
+   "size_mod": 22237142,
+   "size_stock": 3685000
+  },
+  {
+   "id": "rimac_nevera:follow",
+   "car": "rimac_nevera",
+   "label": "Rimac Nevera → Nevera R（跟随车漆选择）",
+   "label_en": "Rimac Nevera → Nevera R (follows paint choice)",
+   "packs": [
+    {
+     "id": "0cce29e3f3b8ed1b9438dfdf43b97fa3",
+     "mod": {
+      "length": 1024440,
+      "installed": 15093760,
+      "truncated": 1024440,
+      "md5": "e7cf2a74649a1bb76956ff8c27a6c23a",
+      "hashes": [
+       "e7cf2a74649a1bb76956ff8c27a6c23a"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "681b67757095ae01073f3e2e8b7f7df2.cab",
+        "size": 15092336,
+        "md5": "681b67757095ae01073f3e2e8b7f7df2"
+       }
+      ],
+      "file": "e7cf2a74649a1bb76956ff8c27a6c23a.pack",
+      "size": 1024440
+     },
+     "stock": {
+      "length": 2134560,
+      "installed": 0,
+      "truncated": 2134560,
+      "md5": "89d4081ff9280ac54078265f94e4a9e3",
+      "hashes": [
+       "89d4081ff9280ac54078265f94e4a9e3"
+      ],
+      "cabs": [],
+      "file": "89d4081ff9280ac54078265f94e4a9e3.pack",
+      "size": 2134560
+     }
+    },
+    {
+     "id": "3ecba5b249a5d6d88b49c5c420ef5487",
+     "mod": {
+      "length": 425335,
+      "installed": 540672,
+      "truncated": 425335,
+      "md5": "2d3e4b66f622d1e069d8575c52b342a8",
+      "hashes": [
+       "2d3e4b66f622d1e069d8575c52b342a8"
+      ],
+      "cabs": [
+       {
+        "name": "4.cab",
+        "file": "eaa7f1044316e88a3c7f99912b80f72a.cab",
+        "size": 534616,
+        "md5": "eaa7f1044316e88a3c7f99912b80f72a"
+       },
+       {
+        "name": "5.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       }
+      ],
+      "file": "2d3e4b66f622d1e069d8575c52b342a8.pack",
+      "size": 425335
+     },
+     "stock": {
+      "length": 706540,
+      "installed": 0,
+      "truncated": 706540,
+      "md5": "de39b0bc7e2cf2004fc1b7b6fe2390ce",
+      "hashes": [
+       "de39b0bc7e2cf2004fc1b7b6fe2390ce"
+      ],
+      "cabs": [],
+      "file": "de39b0bc7e2cf2004fc1b7b6fe2390ce.pack",
+      "size": 706540
+     }
+    },
+    {
+     "id": "ac9cecdac1c2df81ed1707d9af0054f6",
+     "mod": {
+      "length": 960,
+      "installed": 4169728,
+      "truncated": 960,
+      "md5": "e6c0ffebf1773ddd311387de423f9e29",
+      "hashes": [
+       "e6c0ffebf1773ddd311387de423f9e29"
+      ],
+      "cabs": [
+       {
+        "name": "0.cab",
+        "file": "d79f2fb04243044864ac10882493c2f0.cab",
+        "size": 15120,
+        "md5": "d79f2fb04243044864ac10882493c2f0"
+       },
+       {
+        "name": "1.cab",
+        "file": "75d48c148867341fe6375e55826ba4a8.cab",
+        "size": 582804,
+        "md5": "75d48c148867341fe6375e55826ba4a8"
+       },
+       {
+        "name": "2.cab",
+        "file": "815c569a72b7eda3e5f48bf116c48abb.cab",
+        "size": 1406772,
+        "md5": "815c569a72b7eda3e5f48bf116c48abb"
+       },
+       {
+        "name": "3.cab",
+        "file": "6ab38bea82d4a35fc2bf8a3e4004b323.cab",
+        "size": 2740,
+        "md5": "6ab38bea82d4a35fc2bf8a3e4004b323"
+       },
+       {
+        "name": "4.cab",
+        "file": "0189cd5aeb3d7183e1d5dd976b36bc2e.cab",
+        "size": 3256,
+        "md5": "0189cd5aeb3d7183e1d5dd976b36bc2e"
+       },
+       {
+        "name": "5.cab",
+        "file": "83d5b9a08709f7f4df5b288d81dd85c8.cab",
+        "size": 1892032,
+        "md5": "83d5b9a08709f7f4df5b288d81dd85c8"
+       },
+       {
+        "name": "6.cab",
+        "file": "a5c39b91683d10bf6e64d770a27bf863.cab",
+        "size": 255120,
+        "md5": "a5c39b91683d10bf6e64d770a27bf863"
+       }
+      ],
+      "file": "e6c0ffebf1773ddd311387de423f9e29.pack",
+      "size": 960
+     },
+     "stock": {
+      "length": 414180,
+      "installed": 0,
+      "truncated": 414180,
+      "md5": "a0bec7d157bb4ae6be58c07d4fe18e93",
+      "hashes": [
+       "a0bec7d157bb4ae6be58c07d4fe18e93"
+      ],
+      "cabs": [],
+      "file": "a0bec7d157bb4ae6be58c07d4fe18e93.pack",
+      "size": 414180
+     }
+    },
+    {
+     "id": "d98cfeadfeb0a4b3f2621b209ef007e4",
+     "mod": {
+      "length": 426807,
+      "installed": 0,
+      "truncated": 426807,
+      "md5": "5a9067d5b918ead61c26f50f6b2191f9",
+      "hashes": [
+       "5a9067d5b918ead61c26f50f6b2191f9"
+      ],
+      "cabs": [],
+      "file": "5a9067d5b918ead61c26f50f6b2191f9.pack",
+      "size": 426807
+     },
+     "stock": {
+      "length": 429720,
+      "installed": 0,
+      "truncated": 429720,
+      "md5": "b9102f9896af4b0fc80d37ae825f367c",
+      "hashes": [
+       "b9102f9896af4b0fc80d37ae825f367c"
+      ],
+      "cabs": [],
+      "file": "b9102f9896af4b0fc80d37ae825f367c.pack",
+      "size": 429720
+     }
+    }
+   ],
+   "version": "9c44b5b7b6",
+   "updated": "2026-11-08",
+   "size_mod": 21665570,
+   "size_stock": 3685000
+  }
+ ]
+}
