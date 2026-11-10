@@ -965,19 +965,19 @@
       "length": 1024440,
       "installed": 15659008,
       "truncated": 1024440,
-      "md5": "3db5f64b029b6e3231a181089ab09ba2",
+      "md5": "17068b8cfd85408e475feb83e8d43598",
       "hashes": [
-       "3db5f64b029b6e3231a181089ab09ba2"
+       "17068b8cfd85408e475feb83e8d43598"
       ],
       "cabs": [
        {
         "name": "1.cab",
-        "file": "cec5e5fc5c54bfd405c093f786494174.cab",
-        "size": 15656296,
-        "md5": "cec5e5fc5c54bfd405c093f786494174"
+        "file": "7a9b386dfd223c57c2f0899b2d15bec4.cab",
+        "size": 15656320,
+        "md5": "7a9b386dfd223c57c2f0899b2d15bec4"
        }
       ],
-      "file": "3db5f64b029b6e3231a181089ab09ba2.pack",
+      "file": "17068b8cfd85408e475feb83e8d43598.pack",
       "size": 1024440
      },
      "stock": {
@@ -1054,12 +1054,12 @@
      "sku": "texture_etc",
      "tags": "cars_rimac_nevera full_game rest_of_game",
      "mod": {
-      "length": 960,
-      "installed": 2260992,
-      "truncated": 960,
-      "md5": "aafe9956de87c5ed9e38862d4524b384",
+      "length": 944,
+      "installed": 2170880,
+      "truncated": 944,
+      "md5": "097503976c0e15e737b5f4e09db36cc3",
       "hashes": [
-       "aafe9956de87c5ed9e38862d4524b384"
+       "097503976c0e15e737b5f4e09db36cc3"
       ],
       "cabs": [
        {
@@ -1088,25 +1088,25 @@
        },
        {
         "name": "4.cab",
-        "file": "a185622b486bc7f838b1b8afa6991f76.cab",
+        "file": "7b608d23058294d5d0b1fc2e369b567b.cab",
         "size": 6812,
-        "md5": "a185622b486bc7f838b1b8afa6991f76"
+        "md5": "7b608d23058294d5d0b1fc2e369b567b"
        },
        {
         "name": "5.cab",
-        "file": "65678d9cd0f5364d80d7e57413cc4937.cab",
-        "size": 930208,
-        "md5": "65678d9cd0f5364d80d7e57413cc4937"
+        "file": "c76c7a26f6dfe543a95037ba5999d07e.cab",
+        "size": 888128,
+        "md5": "c76c7a26f6dfe543a95037ba5999d07e"
        },
        {
         "name": "6.cab",
-        "file": "a5c39b91683d10bf6e64d770a27bf863.cab",
-        "size": 255120,
-        "md5": "a5c39b91683d10bf6e64d770a27bf863"
+        "file": "369acd74b98b2878bebad8b7cfae6d15.cab",
+        "size": 212480,
+        "md5": "369acd74b98b2878bebad8b7cfae6d15"
        }
       ],
-      "file": "aafe9956de87c5ed9e38862d4524b384.pack",
-      "size": 960
+      "file": "097503976c0e15e737b5f4e09db36cc3.pack",
+      "size": 944
      },
      "stock": {
       "length": 414180,
@@ -1171,15 +1171,27 @@
       },
       {
        "name": "texture_rimac_nevera_2022_misc_reflection.sba",
-       "file": "a185622b486bc7f838b1b8afa6991f76.sba",
+       "file": "7b608d23058294d5d0b1fc2e369b567b.sba",
        "size": 6812,
-       "md5": "a185622b486bc7f838b1b8afa6991f76"
+       "md5": "7b608d23058294d5d0b1fc2e369b567b"
+      },
+      {
+       "name": "texture_rimac_nevera_2022_taillight.sba",
+       "file": "81a60c73ca251c457c6c2ae0a9115bab.sba",
+       "size": 4144,
+       "md5": "81a60c73ca251c457c6c2ae0a9115bab"
       },
       {
        "name": "texture_rimac_nevera_2022_taillight_additive.sba",
        "file": "4f6d9d8596ab7f22f870ba926e974ae6.sba",
        "size": 208896,
        "md5": "4f6d9d8596ab7f22f870ba926e974ae6"
+      },
+      {
+       "name": "texture_rimac_nevera_2022_taillight_reflection.sba",
+       "file": "c95213fcd7ab8a5d324fde6f9b0e4b2f.sba",
+       "size": 3584,
+       "md5": "c95213fcd7ab8a5d324fde6f9b0e4b2f"
       }
      ]
     },
@@ -1213,10 +1225,10 @@
      }
     }
    ],
-   "version": "b7038e7639",
+   "version": "3833aff08e",
    "updated": "2026-11-09",
-   "size_changed": 2230540,
-   "size_mod": 19856842,
+   "size_changed": 2238268,
+   "size_mod": 19772130,
    "size_stock": 3685000
   },
   {
@@ -1233,19 +1245,19 @@
       "length": 1024440,
       "installed": 15093760,
       "truncated": 1024440,
-      "md5": "e7cf2a74649a1bb76956ff8c27a6c23a",
+      "md5": "1f5ba14ad3dd632b3549aee01602b787",
       "hashes": [
-       "e7cf2a74649a1bb76956ff8c27a6c23a"
+       "1f5ba14ad3dd632b3549aee01602b787"
       ],
       "cabs": [
        {
         "name": "1.cab",
-        "file": "681b67757095ae01073f3e2e8b7f7df2.cab",
-        "size": 15092336,
-        "md5": "681b67757095ae01073f3e2e8b7f7df2"
+        "file": "ff2db185af88db9478420a4ce73f9b95.cab",
+        "size": 15092360,
+        "md5": "ff2db185af88db9478420a4ce73f9b95"
        }
       ],
-      "file": "e7cf2a74649a1bb76956ff8c27a6c23a.pack",
+      "file": "1f5ba14ad3dd632b3549aee01602b787.pack",
       "size": 1024440
      },
      "stock": {
@@ -1323,11 +1335,11 @@
      "tags": "cars_rimac_nevera full_game rest_of_game",
      "mod": {
       "length": 960,
-      "installed": 2252800,
+      "installed": 2162688,
       "truncated": 960,
-      "md5": "ee465d417583d2d2362d17c3364dfcde",
+      "md5": "aa24892ad8a0ed3d4f135579a10f518a",
       "hashes": [
-       "ee465d417583d2d2362d17c3364dfcde"
+       "aa24892ad8a0ed3d4f135579a10f518a"
       ],
       "cabs": [
        {
@@ -1362,18 +1374,18 @@
        },
        {
         "name": "5.cab",
-        "file": "65678d9cd0f5364d80d7e57413cc4937.cab",
-        "size": 930208,
-        "md5": "65678d9cd0f5364d80d7e57413cc4937"
+        "file": "c76c7a26f6dfe543a95037ba5999d07e.cab",
+        "size": 888128,
+        "md5": "c76c7a26f6dfe543a95037ba5999d07e"
        },
        {
         "name": "6.cab",
-        "file": "a5c39b91683d10bf6e64d770a27bf863.cab",
-        "size": 255120,
-        "md5": "a5c39b91683d10bf6e64d770a27bf863"
+        "file": "369acd74b98b2878bebad8b7cfae6d15.cab",
+        "size": 212480,
+        "md5": "369acd74b98b2878bebad8b7cfae6d15"
        }
       ],
-      "file": "ee465d417583d2d2362d17c3364dfcde.pack",
+      "file": "aa24892ad8a0ed3d4f135579a10f518a.pack",
       "size": 960
      },
      "stock": {
@@ -1444,10 +1456,22 @@
        "md5": "0189cd5aeb3d7183e1d5dd976b36bc2e"
       },
       {
+       "name": "texture_rimac_nevera_2022_taillight.sba",
+       "file": "81a60c73ca251c457c6c2ae0a9115bab.sba",
+       "size": 4144,
+       "md5": "81a60c73ca251c457c6c2ae0a9115bab"
+      },
+      {
        "name": "texture_rimac_nevera_2022_taillight_additive.sba",
        "file": "4f6d9d8596ab7f22f870ba926e974ae6.sba",
        "size": 208896,
        "md5": "4f6d9d8596ab7f22f870ba926e974ae6"
+      },
+      {
+       "name": "texture_rimac_nevera_2022_taillight_reflection.sba",
+       "file": "c95213fcd7ab8a5d324fde6f9b0e4b2f.sba",
+       "size": 3584,
+       "md5": "c95213fcd7ab8a5d324fde6f9b0e4b2f"
       }
      ]
     },
@@ -1481,10 +1505,10 @@
      }
     }
    ],
-   "version": "4345dbc0d8",
+   "version": "dd1287a356",
    "updated": "2026-11-09",
-   "size_changed": 2222912,
-   "size_mod": 19285254,
+   "size_changed": 2230640,
+   "size_mod": 19200558,
    "size_stock": 3685000
   }
  ]
