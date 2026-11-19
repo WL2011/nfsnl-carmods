@@ -1716,6 +1716,279 @@
    "size_changed": 4017272,
    "size_mod": 11689520,
    "size_stock": 2627071
+  },
+  {
+   "id": "bugatti_chiron",
+   "car": "bugatti_chiron",
+   "label": "布加迪 Chiron → 迈莎锐 Chiron",
+   "label_en": "Bugatti Chiron → Mansory Chiron",
+   "packs": [
+    {
+     "id": "5aa5db520980aa1eacc51406a4648d86",
+     "sku": "",
+     "tags": "cars_bugatti_chiron full_game rest_of_game",
+     "mod": {
+      "length": 34331,
+      "installed": 16998400,
+      "truncated": 34331,
+      "md5": "6f5394e40fb0cb359c512b53178d00e0",
+      "hashes": [
+       "6f5394e40fb0cb359c512b53178d00e0"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "2638c1cfdf6479b248f68da7c9930cd1.cab",
+        "size": 16996572,
+        "md5": "2638c1cfdf6479b248f68da7c9930cd1"
+       }
+      ],
+      "file": "6f5394e40fb0cb359c512b53178d00e0.pack",
+      "size": 34331
+     },
+     "stock": {
+      "length": 2121156,
+      "installed": 2404352,
+      "truncated": 85674,
+      "md5": "41e57fc50ad4d6a56fa9785a92904edb",
+      "hashes": [
+       "541e5b8a4a31df33066f11a50139998c"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "4f102bd5f3e9f69c77f6c8fc466be284.cab",
+        "size": 2403360,
+        "md5": "4f102bd5f3e9f69c77f6c8fc466be284"
+       }
+      ],
+      "file": "41e57fc50ad4d6a56fa9785a92904edb.pack",
+      "size": 85674
+     }
+    },
+    {
+     "id": "837707714de8d69de7da1ef24ec4fa67",
+     "sku": "texture_etc",
+     "tags": "cars_bugatti_chiron full_game rest_of_game",
+     "mod": {
+      "length": 1152,
+      "installed": 5582848,
+      "truncated": 1152,
+      "md5": "fc26c26c436e34b3664c684891f7d102",
+      "hashes": [
+       "fc26c26c436e34b3664c684891f7d102"
+      ],
+      "cabs": [
+       {
+        "name": "0.cab",
+        "file": "8f560d4bd7ad78cf0a4807ea675ed388.cab",
+        "size": 689124,
+        "md5": "8f560d4bd7ad78cf0a4807ea675ed388"
+       },
+       {
+        "name": "1.cab",
+        "file": "c114440fddb224150fca50e944fb994c.cab",
+        "size": 3072,
+        "md5": "c114440fddb224150fca50e944fb994c"
+       },
+       {
+        "name": "2.cab",
+        "file": "985afe6509c4692836e44a8a81be1144.cab",
+        "size": 7420,
+        "md5": "985afe6509c4692836e44a8a81be1144"
+       },
+       {
+        "name": "3.cab",
+        "file": "ebb28b22768372b358350ea200e0af34.cab",
+        "size": 353716,
+        "md5": "ebb28b22768372b358350ea200e0af34"
+       },
+       {
+        "name": "4.cab",
+        "file": "da6bada9bb61af78f02b6a2d15fc97f5.cab",
+        "size": 3064,
+        "md5": "da6bada9bb61af78f02b6a2d15fc97f5"
+       },
+       {
+        "name": "5.cab",
+        "file": "2084fc67aac3a67c79d7609a8b4d7a8f.cab",
+        "size": 2240,
+        "md5": "2084fc67aac3a67c79d7609a8b4d7a8f"
+       },
+       {
+        "name": "6.cab",
+        "file": "c1f597c9fed902683b8891bbe6b82919.cab",
+        "size": 3080,
+        "md5": "c1f597c9fed902683b8891bbe6b82919"
+       },
+       {
+        "name": "7.cab",
+        "file": "b0d353a4fd2f2dd0a358b2529e9cb360.cab",
+        "size": 1865300,
+        "md5": "b0d353a4fd2f2dd0a358b2529e9cb360"
+       },
+       {
+        "name": "8.cab",
+        "file": "15bb425ad94e064a36ad65b16c435e02.cab",
+        "size": 1966348,
+        "md5": "15bb425ad94e064a36ad65b16c435e02"
+       },
+       {
+        "name": "9.cab",
+        "file": "58532cb77ce46b1e29e1f437325ff40b.cab",
+        "size": 670864,
+        "md5": "58532cb77ce46b1e29e1f437325ff40b"
+       }
+      ],
+      "file": "fc26c26c436e34b3664c684891f7d102.pack",
+      "size": 1152
+     },
+     "stock": {
+      "length": 2247360,
+      "installed": 0,
+      "truncated": 2247360,
+      "md5": "1b0088b70d8835136576919e352914a7",
+      "hashes": [
+       "1b0088b70d8835136576919e352914a7"
+      ],
+      "cabs": [],
+      "file": "1b0088b70d8835136576919e352914a7.pack",
+      "size": 2247360
+     },
+     "changed": [
+      {
+       "name": "texture_bugatti_chiron_alpha.sba",
+       "file": "ebb28b22768372b358350ea200e0af34.sba",
+       "size": 353716,
+       "md5": "ebb28b22768372b358350ea200e0af34"
+      },
+      {
+       "name": "texture_bugatti_chiron_alpha_normal.sba",
+       "file": "da6bada9bb61af78f02b6a2d15fc97f5.sba",
+       "size": 3064,
+       "md5": "da6bada9bb61af78f02b6a2d15fc97f5"
+      },
+      {
+       "name": "texture_bugatti_chiron_alpha_reflection.sba",
+       "file": "985afe6509c4692836e44a8a81be1144.sba",
+       "size": 7420,
+       "md5": "985afe6509c4692836e44a8a81be1144"
+      },
+      {
+       "name": "texture_bugatti_chiron_grill.sba",
+       "file": "0e909dda7fe8d5cc05c85507969a8906.sba",
+       "size": 1865316,
+       "md5": "0e909dda7fe8d5cc05c85507969a8906"
+      },
+      {
+       "name": "texture_bugatti_chiron_grill_normal.sba",
+       "file": "d327c521bc3a1c003564ebd098b0ed60.sba",
+       "size": 3032,
+       "md5": "d327c521bc3a1c003564ebd098b0ed60"
+      },
+      {
+       "name": "texture_bugatti_chiron_grill_reflection.sba",
+       "file": "f3ff4de589a8626f7127bf4e999863de.sba",
+       "size": 10860,
+       "md5": "f3ff4de589a8626f7127bf4e999863de"
+      },
+      {
+       "name": "texture_bugatti_chiron_headlight_additive.sba",
+       "file": "216b040a424643b22374fb88e18f0f08.sba",
+       "size": 399520,
+       "md5": "216b040a424643b22374fb88e18f0f08"
+      },
+      {
+       "name": "texture_bugatti_chiron_headlight_reflection.sba",
+       "file": "eeec937de1bb8e7ca0c355fa1e073bbc.sba",
+       "size": 3072,
+       "md5": "eeec937de1bb8e7ca0c355fa1e073bbc"
+      },
+      {
+       "name": "texture_bugatti_chiron_interior.sba",
+       "file": "b0d353a4fd2f2dd0a358b2529e9cb360.sba",
+       "size": 1865300,
+       "md5": "b0d353a4fd2f2dd0a358b2529e9cb360"
+      },
+      {
+       "name": "texture_bugatti_chiron_misc.sba",
+       "file": "2084fc67aac3a67c79d7609a8b4d7a8f.sba",
+       "size": 2240,
+       "md5": "2084fc67aac3a67c79d7609a8b4d7a8f"
+      },
+      {
+       "name": "texture_bugatti_chiron_misc_reflection.sba",
+       "file": "c1f597c9fed902683b8891bbe6b82919.sba",
+       "size": 3080,
+       "md5": "c1f597c9fed902683b8891bbe6b82919"
+      },
+      {
+       "name": "texture_bugatti_chiron_taillight.sba",
+       "file": "d201fff3078c6de35881606df7433267.sba",
+       "size": 2556,
+       "md5": "d201fff3078c6de35881606df7433267"
+      },
+      {
+       "name": "texture_bugatti_chiron_taillight_additive.sba",
+       "file": "10b995b768e2c1484ee25dd69f856d95.sba",
+       "size": 176336,
+       "md5": "10b995b768e2c1484ee25dd69f856d95"
+      },
+      {
+       "name": "texture_bugatti_chiron_taillight_reflection.sba",
+       "file": "4b0c02e23446dd3664cdc3e13790e394.sba",
+       "size": 2556,
+       "md5": "4b0c02e23446dd3664cdc3e13790e394"
+      },
+      {
+       "name": "texture_wheel_bugatti_chiron_blur.sba",
+       "file": "8f560d4bd7ad78cf0a4807ea675ed388.sba",
+       "size": 689124,
+       "md5": "8f560d4bd7ad78cf0a4807ea675ed388"
+      },
+      {
+       "name": "texture_wheel_bugatti_chiron_blur_reflection.sba",
+       "file": "c114440fddb224150fca50e944fb994c.sba",
+       "size": 3072,
+       "md5": "c114440fddb224150fca50e944fb994c"
+      }
+     ]
+    },
+    {
+     "id": "d39b358f1a7fc02406061bf269092fe1",
+     "sku": "",
+     "tags": "cars_bmw_m3_gtr_e46 cars_bmw_m4_f82 cars_bmw_m5_f90 cars_bmw_m8_competition_f92 cars_bmw_z4_m40i cars_brabham_bt62 cars_bugatti_bolide cars_bugatti_centodieci cars_bugatti_chiron cars_bugatti_chiron_super_sport_300 cars_bugatti_divo cars_bugatti_divo_lts cars_bugatti_eb110 cars_bugatti_la_voiture_noire cars_bugatti_tourbillon full_game initial_dl prefabs rest_of_game",
+     "mod": {
+      "length": 363207,
+      "installed": 0,
+      "truncated": 363207,
+      "md5": "669348aaaf04020d3e53db2e90d51c96",
+      "hashes": [
+       "669348aaaf04020d3e53db2e90d51c96"
+      ],
+      "cabs": [],
+      "file": "669348aaaf04020d3e53db2e90d51c96.pack",
+      "size": 363207
+     },
+     "stock": {
+      "length": 371016,
+      "installed": 0,
+      "truncated": 371016,
+      "md5": "faecc6d8ca15bd998b008b9a6a12f89b",
+      "hashes": [
+       "faecc6d8ca15bd998b008b9a6a12f89b"
+      ],
+      "cabs": [],
+      "file": "faecc6d8ca15bd998b008b9a6a12f89b.pack",
+      "size": 371016
+     }
+    }
+   ],
+   "version": "968c77b019",
+   "updated": "2026-11-19",
+   "size_changed": 5390264,
+   "size_mod": 22959490,
+   "size_stock": 5107410
   }
  ]
 }
