@@ -1510,6 +1510,212 @@
    "size_changed": 2230640,
    "size_mod": 19200558,
    "size_stock": 3685000
+  },
+  {
+   "id": "aston_martin_valkyrie",
+   "car": "aston_martin_valkyrie",
+   "label": "阿斯顿马丁 Valkyrie → 乐高 Technic Valkyrie",
+   "label_en": "Aston Martin Valkyrie → LEGO Technic Valkyrie",
+   "packs": [
+    {
+     "id": "5248308bbfc6036742260fbcde269502",
+     "sku": "texture_etc",
+     "tags": "cars_aston_martin_valkyrie full_game rest_of_game",
+     "mod": {
+      "length": 256725,
+      "installed": 4206592,
+      "truncated": 256725,
+      "md5": "4c3f3cb37bbc949f3b1cfd7d4839ba94",
+      "hashes": [
+       "4c3f3cb37bbc949f3b1cfd7d4839ba94"
+      ],
+      "cabs": [
+       {
+        "name": "2.cab",
+        "file": "6df36e5b053086af56f47bd7f6daf591.cab",
+        "size": 493572,
+        "md5": "6df36e5b053086af56f47bd7f6daf591"
+       },
+       {
+        "name": "3.cab",
+        "file": "a12e09ed053c726646ad002fad35568c.cab",
+        "size": 663348,
+        "md5": "a12e09ed053c726646ad002fad35568c"
+       },
+       {
+        "name": "4.cab",
+        "file": "bac3fbff36c6481492a72ebd146e4085.cab",
+        "size": 1718260,
+        "md5": "bac3fbff36c6481492a72ebd146e4085"
+       },
+       {
+        "name": "5.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       },
+       {
+        "name": "6.cab",
+        "file": "b08681244b52d0be9b649a1562cfde51.cab",
+        "size": 1003180,
+        "md5": "b08681244b52d0be9b649a1562cfde51"
+       },
+       {
+        "name": "7.cab",
+        "file": "0784669037e0c33931143e8a1596d924.cab",
+        "size": 318272,
+        "md5": "0784669037e0c33931143e8a1596d924"
+       }
+      ],
+      "file": "4c3f3cb37bbc949f3b1cfd7d4839ba94.pack",
+      "size": 256725
+     },
+     "stock": {
+      "length": 978750,
+      "installed": 0,
+      "truncated": 978750,
+      "md5": "b03b3fce3fbda98f9421511394d7ca6b",
+      "hashes": [
+       "b03b3fce3fbda98f9421511394d7ca6b"
+      ],
+      "cabs": [],
+      "file": "b03b3fce3fbda98f9421511394d7ca6b.pack",
+      "size": 978750
+     },
+     "changed": [
+      {
+       "name": "texture_aston_martin_valkyrie_alpha.sba",
+       "file": "bac3fbff36c6481492a72ebd146e4085.sba",
+       "size": 1718260,
+       "md5": "bac3fbff36c6481492a72ebd146e4085"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_headlight.sba",
+       "file": "759201a9474eec8f1b48944ec1698d71.sba",
+       "size": 663348,
+       "md5": "759201a9474eec8f1b48944ec1698d71"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_headlight_additive.sba",
+       "file": "8c70116c7f22d97bfb6ea70eb3f890ac.sba",
+       "size": 285312,
+       "md5": "8c70116c7f22d97bfb6ea70eb3f890ac"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_headlight_reflection.sba",
+       "file": "d1688125f9069ce9a02673907822533f.sba",
+       "size": 7884,
+       "md5": "d1688125f9069ce9a02673907822533f"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_interior.sba",
+       "file": "a12e09ed053c726646ad002fad35568c.sba",
+       "size": 663348,
+       "md5": "a12e09ed053c726646ad002fad35568c"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_misc.sba",
+       "file": "3350a8624a3d97444fdf3e0600f94ea6.sba",
+       "size": 2716,
+       "md5": "3350a8624a3d97444fdf3e0600f94ea6"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_misc_reflection.sba",
+       "file": "a908d6a7946a2b312d77c7b4205f4591.sba",
+       "size": 3232,
+       "md5": "a908d6a7946a2b312d77c7b4205f4591"
+      },
+      {
+       "name": "texture_aston_martin_valkyrie_taillight_additive.sba",
+       "file": "c25ce09bcd31a32cba7437377ffb7ab3.sba",
+       "size": 176368,
+       "md5": "c25ce09bcd31a32cba7437377ffb7ab3"
+      },
+      {
+       "name": "texture_wheel_aston_martin_valkyrie_blur.sba",
+       "file": "6df36e5b053086af56f47bd7f6daf591.sba",
+       "size": 493572,
+       "md5": "6df36e5b053086af56f47bd7f6daf591"
+      },
+      {
+       "name": "texture_wheel_aston_martin_valkyrie_blur_reflection.sba",
+       "file": "3c75752b46a1de77cdaffdf72c3689c4.sba",
+       "size": 3232,
+       "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+      }
+     ]
+    },
+    {
+     "id": "6ce9c57d53fa781f93b1ec241c90d6a3",
+     "sku": "",
+     "tags": "cars_aston_martin_valkyrie full_game rest_of_game",
+     "mod": {
+      "length": 27210,
+      "installed": 7069696,
+      "truncated": 27210,
+      "md5": "3b917d9fe6f2e840de1db4e3c8e086b8",
+      "hashes": [
+       "3b917d9fe6f2e840de1db4e3c8e086b8"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "b8a7c41fb20ab240560837b8ef8b010b.cab",
+        "size": 7067660,
+        "md5": "b8a7c41fb20ab240560837b8ef8b010b"
+       }
+      ],
+      "file": "3b917d9fe6f2e840de1db4e3c8e086b8.pack",
+      "size": 27210
+     },
+     "stock": {
+      "length": 1504384,
+      "installed": 0,
+      "truncated": 1504384,
+      "md5": "d17e76dcad391f3dac5c3fff129812bc",
+      "hashes": [
+       "d17e76dcad391f3dac5c3fff129812bc"
+      ],
+      "cabs": [],
+      "file": "d17e76dcad391f3dac5c3fff129812bc.pack",
+      "size": 1504384
+     }
+    },
+    {
+     "id": "de9abc0bd3142531a4d69b3621e7aa4d",
+     "sku": "",
+     "tags": "cars_acura_nsx_type_s_2022 cars_ai_easy cars_ai_hard cars_alfa_romeo_8c cars_alfa_romeo_giulia_952 cars_apollo_intensa_emozione cars_aston_martin_db11_amr cars_aston_martin_db5 cars_aston_martin_dbs_superleggera cars_aston_martin_one77 cars_aston_martin_v12_vantage_2022 cars_aston_martin_v12_vantage_s cars_aston_martin_valhalla cars_aston_martin_valkyrie cars_aston_martin_valkyrie_amr_pro cars_aston_martin_valour_2023 cars_aston_martin_vanquish_2025 cars_aston_martin_vantage_2020 cars_aston_martin_vulcan cars_audi_r8_coupe_v10_gt_rwd_2023 cars_audi_r8_lms_gt2_2020 full_game initial_dl prefabs",
+     "mod": {
+      "length": 138061,
+      "installed": 0,
+      "truncated": 138061,
+      "md5": "4d5c9829eaec314b607a38efb0050cdb",
+      "hashes": [
+       "4d5c9829eaec314b607a38efb0050cdb"
+      ],
+      "cabs": [],
+      "file": "4d5c9829eaec314b607a38efb0050cdb.pack",
+      "size": 138061
+     },
+     "stock": {
+      "length": 143937,
+      "installed": 0,
+      "truncated": 143937,
+      "md5": "5fef4b29cb94dd8b2609362b14bda85b",
+      "hashes": [
+       "5fef4b29cb94dd8b2609362b14bda85b"
+      ],
+      "cabs": [],
+      "file": "5fef4b29cb94dd8b2609362b14bda85b.pack",
+      "size": 143937
+     }
+    }
+   ],
+   "version": "2690cbd506",
+   "updated": "2026-11-18",
+   "size_changed": 4017272,
+   "size_mod": 11689520,
+   "size_stock": 2627071
   }
  ]
 }
