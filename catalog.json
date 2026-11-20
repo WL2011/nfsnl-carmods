@@ -18,11 +18,11 @@
      "tags": "cars_porsche_911_gt3rs_2023 full_game initial_dl",
      "mod": {
       "length": 1120,
-      "installed": 12713984,
+      "installed": 12771328,
       "truncated": 1120,
-      "md5": "3c659eb89066db2aacbf89059c14378a",
+      "md5": "8314bf32e393b19c299a63f158173ec0",
       "hashes": [
-       "3c659eb89066db2aacbf89059c14378a"
+       "8314bf32e393b19c299a63f158173ec0"
       ],
       "cabs": [
        {
@@ -45,15 +45,15 @@
        },
        {
         "name": "11.cab",
-        "file": "ce770b44c99ae7498bb734d34d9519a2.cab",
-        "size": 636992,
-        "md5": "ce770b44c99ae7498bb734d34d9519a2"
+        "file": "f7da540492aa2c8eea6f2b647ac1b535.cab",
+        "size": 665312,
+        "md5": "f7da540492aa2c8eea6f2b647ac1b535"
        },
        {
         "name": "12.cab",
-        "file": "d97bfc189165e0f289404fecb82d357c.cab",
-        "size": 268656,
-        "md5": "d97bfc189165e0f289404fecb82d357c"
+        "file": "9059759017fa4481a7cda72d1e38a611.cab",
+        "size": 296976,
+        "md5": "9059759017fa4481a7cda72d1e38a611"
        },
        {
         "name": "2.cab",
@@ -104,7 +104,7 @@
         "md5": "923897ef601ec0248a7c8ff808a67609"
        }
       ],
-      "file": "3c659eb89066db2aacbf89059c14378a.pack",
+      "file": "8314bf32e393b19c299a63f158173ec0.pack",
       "size": 1120
      },
      "stock": {
@@ -158,9 +158,9 @@
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_headlight_additive.sba",
-       "file": "0a7b79d3a1f12b535b80ff669e8d47a8.sba",
-       "size": 176208,
-       "md5": "0a7b79d3a1f12b535b80ff669e8d47a8"
+       "file": "50a8332184881e5b6ec5980a16a613d9.sba",
+       "size": 204528,
+       "md5": "50a8332184881e5b6ec5980a16a613d9"
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_interior.sba",
@@ -182,9 +182,9 @@
       },
       {
        "name": "texture_porsche_911_gt3rs_2023_taillight_additive.sba",
-       "file": "0a7b79d3a1f12b535b80ff669e8d47a8.sba",
-       "size": 176208,
-       "md5": "0a7b79d3a1f12b535b80ff669e8d47a8"
+       "file": "50a8332184881e5b6ec5980a16a613d9.sba",
+       "size": 204528,
+       "md5": "50a8332184881e5b6ec5980a16a613d9"
       },
       {
        "name": "texture_wheel_porsche_911_gt3rs_2023.sba",
@@ -278,10 +278,10 @@
      }
     }
    ],
-   "version": "0d6474cc05",
+   "version": "d24bdb5d95",
    "updated": "2026-11-20",
-   "size_changed": 12498916,
-   "size_mod": 29309957,
+   "size_changed": 12555556,
+   "size_mod": 29366597,
    "size_stock": 3042002
   },
   {
