@@ -1989,6 +1989,273 @@
    "size_changed": 4938080,
    "size_mod": 20754898,
    "size_stock": 5107410
+  },
+  {
+   "id": "mazda_furai_2008",
+   "car": "mazda_furai_2008",
+   "label": "马自达 Furai → 马自达 LM55 Vision GT",
+   "label_en": "Mazda Furai → Mazda LM55 Vision GT",
+   "packs": [
+    {
+     "id": "0be90c9623160f6b0f03cfa121476c12",
+     "sku": "texture_etc",
+     "tags": "cars_mazda_furai_2008 full_game rest_of_game",
+     "mod": {
+      "length": 586304,
+      "installed": 5468160,
+      "truncated": 586304,
+      "md5": "ccd409abe1da1391b1f33c05c9726f5d",
+      "hashes": [
+       "ccd409abe1da1391b1f33c05c9726f5d"
+      ],
+      "cabs": [
+       {
+        "name": "10.cab",
+        "file": "d6d9843cdc2f27e4b1f519f46c508c1b.cab",
+        "size": 285972,
+        "md5": "d6d9843cdc2f27e4b1f519f46c508c1b"
+       },
+       {
+        "name": "3.cab",
+        "file": "ede3fdd130fb32e716ae65de5a4dbc3e.cab",
+        "size": 1930720,
+        "md5": "ede3fdd130fb32e716ae65de5a4dbc3e"
+       },
+       {
+        "name": "4.cab",
+        "file": "768bcc88146548944f21b8de38dc3475.cab",
+        "size": 3216,
+        "md5": "768bcc88146548944f21b8de38dc3475"
+       },
+       {
+        "name": "5.cab",
+        "file": "3c75752b46a1de77cdaffdf72c3689c4.cab",
+        "size": 3232,
+        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+       },
+       {
+        "name": "6.cab",
+        "file": "b89bd89e917a6a0cc82e357732b5d8f2.cab",
+        "size": 296512,
+        "md5": "b89bd89e917a6a0cc82e357732b5d8f2"
+       },
+       {
+        "name": "7.cab",
+        "file": "c681b5f01d6ac624751766fd55b34eb6.cab",
+        "size": 1046660,
+        "md5": "c681b5f01d6ac624751766fd55b34eb6"
+       },
+       {
+        "name": "8.cab",
+        "file": "11c246ad6f72d8166a562239164f02b5.cab",
+        "size": 1128560,
+        "md5": "11c246ad6f72d8166a562239164f02b5"
+       },
+       {
+        "name": "9.cab",
+        "file": "9b35e5a5c1d7390aeabfe786fc582b8e.cab",
+        "size": 760848,
+        "md5": "9b35e5a5c1d7390aeabfe786fc582b8e"
+       }
+      ],
+      "file": "ccd409abe1da1391b1f33c05c9726f5d.pack",
+      "size": 586304
+     },
+     "stock": {
+      "length": 4877600,
+      "installed": 0,
+      "truncated": 4877600,
+      "md5": "4a1a1ee7032e1aa0a11fc76e16688c3a",
+      "hashes": [
+       "8840e1a8937fab50535aa2a983b3dc0d",
+       "2b43861d8c3c438caf8b3397de951e4e"
+      ],
+      "cabs": [],
+      "file": "4a1a1ee7032e1aa0a11fc76e16688c3a.pack",
+      "size": 4877600
+     },
+     "changed": [
+      {
+       "name": "texture_mazda_furai_2008_alpha.sba",
+       "file": "8bd03a21da1e446f696dc8cbc8272ae2.sba",
+       "size": 193524,
+       "md5": "8bd03a21da1e446f696dc8cbc8272ae2"
+      },
+      {
+       "name": "texture_mazda_furai_2008_alpha_normal.sba",
+       "file": "768bcc88146548944f21b8de38dc3475.sba",
+       "size": 3216,
+       "md5": "768bcc88146548944f21b8de38dc3475"
+      },
+      {
+       "name": "texture_mazda_furai_2008_alpha_reflection.sba",
+       "file": "2f494c7c03dd2c0f9e61f17f6b2a6900.sba",
+       "size": 7372,
+       "md5": "2f494c7c03dd2c0f9e61f17f6b2a6900"
+      },
+      {
+       "name": "texture_mazda_furai_2008_grill.sba",
+       "file": "3aad6bf4ddeddb428b5a2b7791c868b7.sba",
+       "size": 1046660,
+       "md5": "3aad6bf4ddeddb428b5a2b7791c868b7"
+      },
+      {
+       "name": "texture_mazda_furai_2008_grill_normal.sba",
+       "file": "768bcc88146548944f21b8de38dc3475.sba",
+       "size": 3216,
+       "md5": "768bcc88146548944f21b8de38dc3475"
+      },
+      {
+       "name": "texture_mazda_furai_2008_grill_reflection.sba",
+       "file": "ff34e7c0294c92a5003fe3cdd1d314af.sba",
+       "size": 7868,
+       "md5": "ff34e7c0294c92a5003fe3cdd1d314af"
+      },
+      {
+       "name": "texture_mazda_furai_2008_headlight_additive.sba",
+       "file": "b0be91dbfa75fd55e0cb91b658be32c4.sba",
+       "size": 13968,
+       "md5": "b0be91dbfa75fd55e0cb91b658be32c4"
+      },
+      {
+       "name": "texture_mazda_furai_2008_headlight_reflection.sba",
+       "file": "0b9bc5f4984cbdccafcd6122035cf9de.sba",
+       "size": 3232,
+       "md5": "0b9bc5f4984cbdccafcd6122035cf9de"
+      },
+      {
+       "name": "texture_mazda_furai_2008_interior.sba",
+       "file": "c681b5f01d6ac624751766fd55b34eb6.sba",
+       "size": 1046660,
+       "md5": "c681b5f01d6ac624751766fd55b34eb6"
+      },
+      {
+       "name": "texture_mazda_furai_2008_lirery_alpha_normal.sba",
+       "file": "9213dd356cfabc46e3d72dceea4ae8ba.sba",
+       "size": 311692,
+       "md5": "9213dd356cfabc46e3d72dceea4ae8ba"
+      },
+      {
+       "name": "texture_mazda_furai_2008_lirery_alpha_reflection.sba",
+       "file": "0233ac1ba75224c15a1f5d58da5d042d.sba",
+       "size": 322076,
+       "md5": "0233ac1ba75224c15a1f5d58da5d042d"
+      },
+      {
+       "name": "texture_mazda_furai_2008_misc.sba",
+       "file": "d1e34466aaf8b526617442c5c5bcfc5f.sba",
+       "size": 735992,
+       "md5": "d1e34466aaf8b526617442c5c5bcfc5f"
+      },
+      {
+       "name": "texture_mazda_furai_2008_misc_reflection.sba",
+       "file": "0b9bc5f4984cbdccafcd6122035cf9de.sba",
+       "size": 3232,
+       "md5": "0b9bc5f4984cbdccafcd6122035cf9de"
+      },
+      {
+       "name": "texture_mazda_furai_2008_taillight.sba",
+       "file": "81a60c73ca251c457c6c2ae0a9115bab.sba",
+       "size": 4144,
+       "md5": "81a60c73ca251c457c6c2ae0a9115bab"
+      },
+      {
+       "name": "texture_mazda_furai_2008_taillight_additive.sba",
+       "file": "72c2a48edbef713bb83cc340d30aae98.sba",
+       "size": 13888,
+       "md5": "72c2a48edbef713bb83cc340d30aae98"
+      },
+      {
+       "name": "texture_mazda_furai_2008_taillight_reflection.sba",
+       "file": "c95213fcd7ab8a5d324fde6f9b0e4b2f.sba",
+       "size": 3584,
+       "md5": "c95213fcd7ab8a5d324fde6f9b0e4b2f"
+      },
+      {
+       "name": "texture_wheel_mazda_furai_2008_blur.sba",
+       "file": "b89bd89e917a6a0cc82e357732b5d8f2.sba",
+       "size": 296512,
+       "md5": "b89bd89e917a6a0cc82e357732b5d8f2"
+      },
+      {
+       "name": "texture_wheel_mazda_furai_2008_blur_reflection.sba",
+       "file": "3c75752b46a1de77cdaffdf72c3689c4.sba",
+       "size": 3232,
+       "md5": "3c75752b46a1de77cdaffdf72c3689c4"
+      }
+     ]
+    },
+    {
+     "id": "924f98248dd24e963e0e1beba76fec9b",
+     "sku": "",
+     "tags": "cars_madballs_shared_slobulus cars_madballs_trashinpumpkin cars_maserati_gt_mc_stradale cars_mazda_furai_2008 cars_mazda_mx5_nd cars_mazda_rx7_fd cars_mazda_rx8_spirit_r_2011 cars_mclaren_600lt cars_mclaren_650s cars_mclaren_720s cars_mclaren_765lt cars_mclaren_artura cars_mclaren_f1 cars_mclaren_gt cars_mclaren_gt_cop cars_mclaren_mp4_12c cars_mclaren_mp4_12c_cop cars_mclaren_p1 full_game initial_dl prefabs rest_of_game",
+     "mod": {
+      "length": 336066,
+      "installed": 0,
+      "truncated": 336066,
+      "md5": "0cbddccb3428533c6ee627080f1880fe",
+      "hashes": [
+       "0cbddccb3428533c6ee627080f1880fe"
+      ],
+      "cabs": [],
+      "file": "0cbddccb3428533c6ee627080f1880fe.pack",
+      "size": 336066
+     },
+     "stock": {
+      "length": 342562,
+      "installed": 0,
+      "truncated": 342562,
+      "md5": "e2086a88b3b8e1b2b5e271ffe279489c",
+      "hashes": [
+       "e2086a88b3b8e1b2b5e271ffe279489c"
+      ],
+      "cabs": [],
+      "file": "e2086a88b3b8e1b2b5e271ffe279489c.pack",
+      "size": 342562
+     }
+    },
+    {
+     "id": "d9b38a778da9e472c35fab562e109b96",
+     "sku": "",
+     "tags": "cars_mazda_furai_2008 full_game rest_of_game",
+     "mod": {
+      "length": 168321,
+      "installed": 15044608,
+      "truncated": 168321,
+      "md5": "fcf09d95bdc5c9931b39fbae0c90526f",
+      "hashes": [
+       "fcf09d95bdc5c9931b39fbae0c90526f"
+      ],
+      "cabs": [
+       {
+        "name": "1.cab",
+        "file": "c166ee80ec3c154da3294c2d86a66c53.cab",
+        "size": 15041840,
+        "md5": "c166ee80ec3c154da3294c2d86a66c53"
+       }
+      ],
+      "file": "fcf09d95bdc5c9931b39fbae0c90526f.pack",
+      "size": 168321
+     },
+     "stock": {
+      "length": 1572976,
+      "installed": 0,
+      "truncated": 1572976,
+      "md5": "e50cdfad89110d3c83fefcb8e7bf430d",
+      "hashes": [
+       "e50cdfad89110d3c83fefcb8e7bf430d"
+      ],
+      "cabs": [],
+      "file": "e50cdfad89110d3c83fefcb8e7bf430d.pack",
+      "size": 1572976
+     }
+    }
+   ],
+   "version": "42d4958c99",
+   "updated": "2026-11-20",
+   "size_changed": 4020068,
+   "size_mod": 21588251,
+   "size_stock": 6793138
   }
  ]
 }
