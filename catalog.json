@@ -220,12 +220,12 @@
       "length": 183484,
       "installed": 0,
       "truncated": 183484,
-      "md5": "6028d3987dba91122c7c6a5e4ce78548",
+      "md5": "281a4a90888cd55f2e45f1b4cad03567",
       "hashes": [
-       "6028d3987dba91122c7c6a5e4ce78548"
+       "281a4a90888cd55f2e45f1b4cad03567"
       ],
       "cabs": [],
-      "file": "6028d3987dba91122c7c6a5e4ce78548.pack",
+      "file": "281a4a90888cd55f2e45f1b4cad03567.pack",
       "size": 183484
      },
      "stock": {
@@ -278,8 +278,8 @@
      }
     }
    ],
-   "version": "a3237c45e3",
-   "updated": "2026-11-09",
+   "version": "0d6474cc05",
+   "updated": "2026-11-20",
    "size_changed": 12498916,
    "size_mod": 29309957,
    "size_stock": 3042002
@@ -435,16 +435,16 @@
      "sku": "",
      "tags": "cars_ferrari_enzo cars_ferrari_f40 cars_ferrari_f50 cars_ferrari_f8_tributo cars_ferrari_fxxk_evo cars_ferrari_laferrari cars_ferrari_roma cars_ferrari_sf90_stradale cars_ferrari_testarossa cars_fifteen52_formula_tr cars_fifteen52_rsl_tarmac cars_fifteen52_tarmac_r40 cars_ford_crown_victoria_2008 cars_ford_crown_victoria_2008_cop cars_ford_falcon_xb full_game initial_dl prefabs rest_of_game",
      "mod": {
-      "length": 501189,
+      "length": 501221,
       "installed": 0,
-      "truncated": 501189,
-      "md5": "a9e52a3b1f4f4d01c3f9327f41261ed2",
+      "truncated": 501221,
+      "md5": "102e2cbd8a6c68b98430e444c31e7f42",
       "hashes": [
-       "a9e52a3b1f4f4d01c3f9327f41261ed2"
+       "102e2cbd8a6c68b98430e444c31e7f42"
       ],
       "cabs": [],
-      "file": "a9e52a3b1f4f4d01c3f9327f41261ed2.pack",
-      "size": 501189
+      "file": "102e2cbd8a6c68b98430e444c31e7f42.pack",
+      "size": 501221
      },
      "stock": {
       "length": 507013,
@@ -496,10 +496,10 @@
      }
     }
    ],
-   "version": "81bf3ed8d7",
-   "updated": "2026-11-09",
+   "version": "3b48f53325",
+   "updated": "2026-11-20",
    "size_changed": 1557860,
-   "size_mod": 14257993,
+   "size_mod": 14258025,
    "size_stock": 2423882
   },
   {
@@ -943,13 +943,42 @@
        "md5": "3c75752b46a1de77cdaffdf72c3689c4"
       }
      ]
+    },
+    {
+     "id": "61f516f6c53ad153f6c45e9da7889770",
+     "sku": "",
+     "tags": "cars_ferrari_enzo cars_ferrari_f40 cars_ferrari_f50 cars_ferrari_f8_tributo cars_ferrari_fxxk_evo cars_ferrari_laferrari cars_ferrari_roma cars_ferrari_sf90_stradale cars_ferrari_testarossa cars_fifteen52_formula_tr cars_fifteen52_rsl_tarmac cars_fifteen52_tarmac_r40 cars_ford_crown_victoria_2008 cars_ford_crown_victoria_2008_cop cars_ford_falcon_xb full_game initial_dl prefabs rest_of_game",
+     "mod": {
+      "length": 501221,
+      "installed": 0,
+      "truncated": 501221,
+      "md5": "102e2cbd8a6c68b98430e444c31e7f42",
+      "hashes": [
+       "102e2cbd8a6c68b98430e444c31e7f42"
+      ],
+      "cabs": [],
+      "file": "102e2cbd8a6c68b98430e444c31e7f42.pack",
+      "size": 501221
+     },
+     "stock": {
+      "length": 507013,
+      "installed": 0,
+      "truncated": 507013,
+      "md5": "9b8442fdf124595ab039dfed0b4f33fe",
+      "hashes": [
+       "9b8442fdf124595ab039dfed0b4f33fe"
+      ],
+      "cabs": [],
+      "file": "9b8442fdf124595ab039dfed0b4f33fe.pack",
+      "size": 507013
+     }
     }
    ],
-   "version": "aee9498566",
-   "updated": "2026-11-09",
+   "version": "d3f25fac62",
+   "updated": "2026-11-20",
    "size_changed": 5801112,
-   "size_mod": 23305779,
-   "size_stock": 2498321
+   "size_mod": 23807000,
+   "size_stock": 3005334
   },
   {
    "id": "rimac_nevera",
@@ -1200,16 +1229,16 @@
      "sku": "",
      "tags": "cars_porsche_taycan cars_porsche_taycan_turbo_GT_weissach_package cars_porsche_taycan_turbo_s cars_raesr_tachyon_speed cars_renault_sport_rs01 cars_rimac_nevera cars_roadblock_dodge_charger full_game initial_dl prefabs rest_of_game",
      "mod": {
-      "length": 426807,
+      "length": 426812,
       "installed": 0,
-      "truncated": 426807,
-      "md5": "5a9067d5b918ead61c26f50f6b2191f9",
+      "truncated": 426812,
+      "md5": "d269fbbb7b841266e742ef2e84cf7f6d",
       "hashes": [
-       "5a9067d5b918ead61c26f50f6b2191f9"
+       "d269fbbb7b841266e742ef2e84cf7f6d"
       ],
       "cabs": [],
-      "file": "5a9067d5b918ead61c26f50f6b2191f9.pack",
-      "size": 426807
+      "file": "d269fbbb7b841266e742ef2e84cf7f6d.pack",
+      "size": 426812
      },
      "stock": {
       "length": 429720,
@@ -1225,10 +1254,10 @@
      }
     }
    ],
-   "version": "3833aff08e",
-   "updated": "2026-11-09",
+   "version": "33fd90323c",
+   "updated": "2026-11-20",
    "size_changed": 2238268,
-   "size_mod": 19772130,
+   "size_mod": 19772135,
    "size_stock": 3685000
   },
   {
@@ -1480,16 +1509,16 @@
      "sku": "",
      "tags": "cars_porsche_taycan cars_porsche_taycan_turbo_GT_weissach_package cars_porsche_taycan_turbo_s cars_raesr_tachyon_speed cars_renault_sport_rs01 cars_rimac_nevera cars_roadblock_dodge_charger full_game initial_dl prefabs rest_of_game",
      "mod": {
-      "length": 426807,
+      "length": 426812,
       "installed": 0,
-      "truncated": 426807,
-      "md5": "5a9067d5b918ead61c26f50f6b2191f9",
+      "truncated": 426812,
+      "md5": "d269fbbb7b841266e742ef2e84cf7f6d",
       "hashes": [
-       "5a9067d5b918ead61c26f50f6b2191f9"
+       "d269fbbb7b841266e742ef2e84cf7f6d"
       ],
       "cabs": [],
-      "file": "5a9067d5b918ead61c26f50f6b2191f9.pack",
-      "size": 426807
+      "file": "d269fbbb7b841266e742ef2e84cf7f6d.pack",
+      "size": 426812
      },
      "stock": {
       "length": 429720,
@@ -1505,10 +1534,10 @@
      }
     }
    ],
-   "version": "dd1287a356",
-   "updated": "2026-11-09",
+   "version": "4151a9eb96",
+   "updated": "2026-11-20",
    "size_changed": 2230640,
-   "size_mod": 19200558,
+   "size_mod": 19200563,
    "size_stock": 3685000
   },
   {
@@ -1686,16 +1715,16 @@
      "sku": "",
      "tags": "cars_acura_nsx_type_s_2022 cars_ai_easy cars_ai_hard cars_alfa_romeo_8c cars_alfa_romeo_giulia_952 cars_apollo_intensa_emozione cars_aston_martin_db11_amr cars_aston_martin_db5 cars_aston_martin_dbs_superleggera cars_aston_martin_one77 cars_aston_martin_v12_vantage_2022 cars_aston_martin_v12_vantage_s cars_aston_martin_valhalla cars_aston_martin_valkyrie cars_aston_martin_valkyrie_amr_pro cars_aston_martin_valour_2023 cars_aston_martin_vanquish_2025 cars_aston_martin_vantage_2020 cars_aston_martin_vulcan cars_audi_r8_coupe_v10_gt_rwd_2023 cars_audi_r8_lms_gt2_2020 full_game initial_dl prefabs",
      "mod": {
-      "length": 138061,
+      "length": 138077,
       "installed": 0,
-      "truncated": 138061,
-      "md5": "4d5c9829eaec314b607a38efb0050cdb",
+      "truncated": 138077,
+      "md5": "ef2f5bb99fde5d265b577feaf33f50b0",
       "hashes": [
-       "4d5c9829eaec314b607a38efb0050cdb"
+       "ef2f5bb99fde5d265b577feaf33f50b0"
       ],
       "cabs": [],
-      "file": "4d5c9829eaec314b607a38efb0050cdb.pack",
-      "size": 138061
+      "file": "ef2f5bb99fde5d265b577feaf33f50b0.pack",
+      "size": 138077
      },
      "stock": {
       "length": 143937,
@@ -1711,10 +1740,10 @@
      }
     }
    ],
-   "version": "2690cbd506",
-   "updated": "2026-11-18",
+   "version": "25464e25ea",
+   "updated": "2026-11-20",
    "size_changed": 4017272,
-   "size_mod": 11689520,
+   "size_mod": 11689536,
    "size_stock": 2627071
   },
   {
@@ -2190,16 +2219,16 @@
      "sku": "",
      "tags": "cars_madballs_shared_slobulus cars_madballs_trashinpumpkin cars_maserati_gt_mc_stradale cars_mazda_furai_2008 cars_mazda_mx5_nd cars_mazda_rx7_fd cars_mazda_rx8_spirit_r_2011 cars_mclaren_600lt cars_mclaren_650s cars_mclaren_720s cars_mclaren_765lt cars_mclaren_artura cars_mclaren_f1 cars_mclaren_gt cars_mclaren_gt_cop cars_mclaren_mp4_12c cars_mclaren_mp4_12c_cop cars_mclaren_p1 full_game initial_dl prefabs rest_of_game",
      "mod": {
-      "length": 336066,
+      "length": 336074,
       "installed": 0,
-      "truncated": 336066,
-      "md5": "0cbddccb3428533c6ee627080f1880fe",
+      "truncated": 336074,
+      "md5": "440df1a8a4ce2e562f907cf465f8aac2",
       "hashes": [
-       "0cbddccb3428533c6ee627080f1880fe"
+       "440df1a8a4ce2e562f907cf465f8aac2"
       ],
       "cabs": [],
-      "file": "0cbddccb3428533c6ee627080f1880fe.pack",
-      "size": 336066
+      "file": "440df1a8a4ce2e562f907cf465f8aac2.pack",
+      "size": 336074
      },
      "stock": {
       "length": 342562,
@@ -2251,10 +2280,10 @@
      }
     }
    ],
-   "version": "42d4958c99",
+   "version": "c9ac00a469",
    "updated": "2026-11-20",
    "size_changed": 4020068,
-   "size_mod": 21588251,
+   "size_mod": 21588259,
    "size_stock": 6793138
   }
  ]
